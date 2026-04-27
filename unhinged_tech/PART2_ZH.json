@@ -1,0 +1,310 @@
+[
+  {
+    "start": 290.56,
+    "end": 295.03999999999996,
+    "speaker": "SPEAKER_00",
+    "en": "Apple fanboys for making that prediction, but it's not over for the Vision Pro. There are rumors",
+    "zh": "果粉预测翻车但Vision Pro还有戏。廉价版已在路上"
+  },
+  {
+    "start": 295.03999999999996,
+    "end": 299.84,
+    "speaker": "SPEAKER_00",
+    "en": "of a lower cost version in the works that could turn this flop around. Meanwhile, Meta is making",
+    "zh": "Meta重金押注AR但VR/AR终将小众。技术炫酷但难盈利"
+  },
+  {
+    "start": 299.84,
+    "end": 305.12,
+    "speaker": "SPEAKER_00",
+    "en": "huge investments in augmented reality, but ultimately, I think the VR AR space will mostly",
+    "zh": "英伟达/ARM/台积电继续通吃AI红利。线性代数需求无底洞"
+  },
+  {
+    "start": 305.12,
+    "end": 309.76,
+    "speaker": "SPEAKER_00",
+    "en": "remain an unprofitable niche area, even though the tech itself is extremely impressive. But the",
+    "zh": "行业壁垒高筑。后来者只能喝汤"
+  },
+  {
+    "start": 309.76,
+    "end": 314.4,
+    "speaker": "SPEAKER_00",
+    "en": "lion's share of the profits are going to continue flowing into chip designers like NVIDIA and",
+    "zh": "英特尔双线溃败。2025年险些破产"
+  },
+  {
+    "start": 314.4,
+    "end": 320.4,
+    "speaker": "SPEAKER_00",
+    "en": "ARM, and chip fabricators like Taiwan semiconductor. AI Mania has created an insatiable demand for",
+    "zh": "懂王出手相救。美政府收购10%股份"
+  },
+  {
+    "start": 320.4,
+    "end": 325.03999999999996,
+    "speaker": "SPEAKER_00",
+    "en": "linear algebra, and the barriers to entry in this industry are so high that these companies will",
+    "zh": "自由市场失灵。2026年英特尔续命成功"
+  },
+  {
+    "start": 325.03999999999996,
+    "end": 329.52,
+    "speaker": "SPEAKER_00",
+    "en": "continue to slurp up most of the profit. The only company that really screwed things up is Intel,",
+    "zh": "大而不能倒定律再现。Azure连GPU电费都付不起"
+  },
+  {
+    "start": 329.52,
+    "end": 334.48,
+    "speaker": "SPEAKER_00",
+    "en": "which is both a chip designer and a fab. And in 2025, it looked like it was on the verge of going",
+    "zh": "AI算力饥渴症或引发核电复兴"
+  },
+  {
+    "start": 334.56,
+    "end": 340.16,
+    "speaker": "SPEAKER_00",
+    "en": "out of business, but luckily Trump stepped in and had the US government buy a 10% stake in Intel,",
+    "zh": "西方忙着拆反应堆。中国狂建第四代堆"
+  },
+  {
+    "start": 364.88,
+    "end": 369.52000000000004,
+    "speaker": "SPEAKER_00",
+    "en": "but there are companies like Auklo, which are attempting to get regulatory approval for these",
+    "zh": "但像Auklo这样的公司正试图获得监管批准"
+  },
+  {
+    "start": 369.52000000000004,
+    "end": 374.40000000000003,
+    "speaker": "SPEAKER_00",
+    "en": "small modular reactors, which could potentially give every data center its own self-contained",
+    "zh": "小型模块化反应堆可为每个数据中心提供独立电源"
+  },
+  {
+    "start": 374.40000000000003,
+    "end": 379.12,
+    "speaker": "SPEAKER_00",
+    "en": "power source. Instead of acres of these ugly intermittent solar farms or wind farms,",
+    "zh": "未来可能用微型反应堆取代丑陋的太阳能和风电场"
+  },
+  {
+    "start": 379.12,
+    "end": 383.6,
+    "speaker": "SPEAKER_00",
+    "en": "the future might have these tiny little reactors in every neighborhood. What could possibly go wrong?",
+    "zh": "这能出什么岔子呢"
+  },
+  {
+    "start": 383.6,
+    "end": 387.44,
+    "speaker": "SPEAKER_00",
+    "en": "And we're already seeing this play out, with Zuckerberg announcing a big deal with Auklo to",
+    "zh": "扎克伯格已宣布与Auklo在俄亥俄州部署反应堆"
+  },
+  {
+    "start": 387.52,
+    "end": 392.48,
+    "speaker": "SPEAKER_00",
+    "en": "put a reactor in Ohio. But maybe this trend will never play out, because computers get colder and",
+    "zh": "但趋势可能逆转 因计算机正变得更冷更快"
+  },
+  {
+    "start": 392.48,
+    "end": 398.4,
+    "speaker": "SPEAKER_00",
+    "en": "faster, like billions of times faster running at absolute zero temperatures. In 2025, we saw some",
+    "zh": "2025年量子计算获重大突破 尤以谷歌柳枝芯片为甚"
+  },
+  {
+    "start": 398.4,
+    "end": 403.2,
+    "speaker": "SPEAKER_00",
+    "en": "major advancements in quantum computing, most notably with Google's willow chip. Then, just a few",
+    "zh": "数月前谷歌公布量子回波算法 可测量亚原子扰动"
+  },
+  {
+    "start": 403.2,
+    "end": 407.92,
+    "speaker": "SPEAKER_00",
+    "en": "months ago, Google announced its quantum echoes algorithm that measures disturbances at the",
+    "zh": "史上首次 量子计算机运行可验证的超越超算的算法"
+  },
+  {
+    "start": 407.92,
+    "end": 412.8,
+    "speaker": "SPEAKER_00",
+    "en": "subatomic scale. The first time in history, a quantum computer has actually run a verifiable",
+    "zh": "量子计算机研发数十年 现终见实际应用曙光"
+  },
+  {
+    "start": 412.8,
+    "end": 417.76,
+    "speaker": "SPEAKER_00",
+    "en": "algorithm that surpasses the ability of supercomputers. Quantum computers have been in development",
+    "zh": "当量子计算1.0问世 当前AI热潮将如儿戏"
+  },
+  {
+    "start": 417.76,
+    "end": 422.08,
+    "speaker": "SPEAKER_00",
+    "en": "for decades now, but what's exciting is that we're finally starting to see the possibility of",
+    "zh": "中美研究者正竞相冲刺 欧洲科技领袖亦大步迈进"
+  },
+  {
+    "start": 436.56,
+    "end": 442.08000000000004,
+    "speaker": "SPEAKER_00",
+    "en": "water bottle caps, and with the highly unpopular digital IDs, along with central bankback digital",
+    "zh": "水瓶盖与备受唾弃的数字身份证及央行数字货币齐飞。"
+  },
+  {
+    "start": 442.08,
+    "end": 446.88,
+    "speaker": "SPEAKER_00",
+    "en": "currencies. Despite nobody actually wanting these things, bureaucrats keep pushing them forward,",
+    "zh": "尽管无人想要这些，官僚们仍全力推进。"
+  },
+  {
+    "start": 446.88,
+    "end": 451.2,
+    "speaker": "SPEAKER_00",
+    "en": "like it's a speedrun to the black mirror season finale. In the near future, every government",
+    "zh": "宛如直奔黑镜季终集的速度通关。"
+  },
+  {
+    "start": 451.2,
+    "end": 455.84,
+    "speaker": "SPEAKER_00",
+    "en": "endorsed smartphone will become a portal to your bank account, your location, your social media",
+    "zh": "未来政府认证手机将成为银行账户/定位/社交媒体的入口。"
+  },
+  {
+    "start": 455.84,
+    "end": 460.96,
+    "speaker": "SPEAKER_00",
+    "en": "posts, your adult website visits, and so on. The UK has been adamant that digital IDs are coming,",
+    "zh": "英国坚称数字身份证势在必行。"
+  },
+  {
+    "start": 460.96,
+    "end": 465.12,
+    "speaker": "SPEAKER_00",
+    "en": "while the European Central Bank recently announced that the Eurozone's Digital Euro",
+    "zh": "欧洲央行宣布数字欧元试点进入新阶段。"
+  },
+  {
+    "start": 465.12,
+    "end": 470.56,
+    "speaker": "SPEAKER_00",
+    "en": "Pilot is moving into its next phase. With the Pilot program expected as soon as mid-2027,",
+    "zh": "试点预计2027年中启动，2029年全面发行。"
+  },
+  {
+    "start": 470.56,
+    "end": 475.6,
+    "speaker": "SPEAKER_00",
+    "en": "and full issuance of a digital currency by 2029. They can take our lives and they can take our",
+    "zh": "他们能夺走生命与自由，但夺不走JavaScript。"
+  },
+  {
+    "start": 475.6,
+    "end": 480.72,
+    "speaker": "SPEAKER_00",
+    "en": "freedom, but they can't take our JavaScript. On the back end, No.js keeps getting better and better,",
+    "zh": "后端领域No.js持续进化，现已支持TypeScript文件。"
+  },
+  {
+    "start": 480.72,
+    "end": 484.96,
+    "speaker": "SPEAKER_00",
+    "en": "and now supports TypeScript files with TypeScripting. Meanwhile, Dino keeps getting better,",
+    "zh": "Dino内置模块打包器日趋完善。"
+  },
+  {
+    "start": 484.96,
+    "end": 489.76,
+    "speaker": "SPEAKER_00",
+    "en": "and now has its own built-in module bundler. But all the kids these days are talking about Bun.js,",
+    "zh": "新宠Bun.js运行时速度飙升，原生支持Postgres和Redis。"
+  },
+  {
+    "start": 489.76,
+    "end": 494.56,
+    "speaker": "SPEAKER_00",
+    "en": "a runtime that keeps getting faster, but also has built-in support for Postgres and Redis,",
+    "zh": "前端仍是React.js的天下，尽管它很糟糕。"
+  },
+  {
+    "start": 494.56,
+    "end": 499.2,
+    "speaker": "SPEAKER_00",
+    "en": "making it a very tempting choice for any new JavaScript project. On the front end, React.js",
+    "zh": "编译器稳定后或许能少糟一点。"
+  },
+  {
+    "start": 499.2,
+    "end": 503.44,
+    "speaker": "SPEAKER_00",
+    "en": "still dominates despite the fact it sucks, but in the future, it will suck less now that the",
+    "zh": "我选Svelte/Vue，甚至Angular也行。"
+  },
+  {
+    "start": 508.56,
+    "end": 512.48,
+    "speaker": "SPEAKER_00",
+    "en": "but there's still new JavaScripts hitting the scene, like Ripple, which should be on your radar in",
+    "zh": "但2026年仍有新锐JavaScript框架涌现，比如值得关注的Ripple。"
+  },
+  {
+    "start": 512.48,
+    "end": 516.96,
+    "speaker": "SPEAKER_00",
+    "en": "2026. But if you're looking to level up your skills this year, you need to check out Brilliant,",
+    "zh": "若想今年技术升级，必看本期赞助商Brilliant。"
+  },
+  {
+    "start": 516.96,
+    "end": 521.84,
+    "speaker": "SPEAKER_00",
+    "en": "the sponsor of today's video. I'd highly recommend their How AI Works course, which teaches you how",
+    "zh": "强烈推荐其《AI工作原理》课程，手把手教你从零构建语言模型。"
+  },
+  {
+    "start": 521.84,
+    "end": 526.4,
+    "speaker": "SPEAKER_00",
+    "en": "to build a functioning language model from scratch. You'll get to experiment with things like feature",
+    "zh": "可实操特征向量编辑面部表情与图像，个性化课程适配不同技能层级。"
+  },
+  {
+    "start": 526.48,
+    "end": 531.68,
+    "speaker": "SPEAKER_00",
+    "en": "vectors to edit facial expressions and images, along with other hands-on lessons that are personalized",
+    "zh": "持续攻克硬核知识点。访问Brilliant.org/fireship免费体验30天。"
+  },
+  {
+    "start": 531.68,
+    "end": 536.3199999999999,
+    "speaker": "SPEAKER_00",
+    "en": "to your skill level, so you can master challenging topics over time. Check out Brilliant.org",
+    "zh": "扫描屏幕二维码享年度会员8折，无限次每日访问。"
+  },
+  {
+    "start": 536.3199999999999,
+    "end": 542.0799999999999,
+    "speaker": "SPEAKER_00",
+    "en": "slash fireship to learn for free for a full 30 days, or scan the QR code on screen to get 20%",
+    "zh": "代码简报完毕。"
+  },
+  {
+    "start": 542.0799999999999,
+    "end": 547.04,
+    "speaker": "SPEAKER_00",
+    "en": "off an annual premium subscription with unlimited daily access. This has been the code report.",
+    "zh": "感谢观看，下期再会。"
+  }
+]

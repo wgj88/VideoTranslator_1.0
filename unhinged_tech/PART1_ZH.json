@@ -1,0 +1,324 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.76,
+    "speaker": "SPEAKER_00",
+    "en": "The year is 2026. Your $3,500 smart fridge has a GPU and displays advertisements,",
+    "zh": "2026年。你的3500美元智能冰箱搭载GPU并播放广告"
+  },
+  {
+    "start": 5.76,
+    "end": 10.96,
+    "speaker": "SPEAKER_00",
+    "en": "your boss is an AI, your girlfriend is a robot, and every startup pitch sounds like Uber but",
+    "zh": "你的老板是AI。女友是机器人。每个创业项目都像量子版优步"
+  },
+  {
+    "start": 10.96,
+    "end": 16.4,
+    "speaker": "SPEAKER_00",
+    "en": "quantum. Welcome to the future. It's somehow both over-engineered and still in beta. But it's time",
+    "zh": "欢迎来到未来。过度设计却仍是测试版"
+  },
+  {
+    "start": 16.4,
+    "end": 20.88,
+    "speaker": "SPEAKER_00",
+    "en": "for the annual tradition where I wake up the vat of pre-cogs in my garage and tell you exactly",
+    "zh": "又到年度仪式：唤醒车库里的预知培养罐预测全年大势"
+  },
+  {
+    "start": 20.88,
+    "end": 25.2,
+    "speaker": "SPEAKER_00",
+    "en": "what's going to happen this year. Last year I told you AI agents would be the biggest thing in",
+    "zh": "去年我说AI代理将统治科技圈"
+  },
+  {
+    "start": 25.2,
+    "end": 29.04,
+    "speaker": "SPEAKER_00",
+    "en": "tech. And if you would have just listened to me you'd be a billionaire right now. But you didn't",
+    "zh": "听我的早成亿万富翁了"
+  },
+  {
+    "start": 29.04,
+    "end": 33.44,
+    "speaker": "SPEAKER_00",
+    "en": "listen. In fact I didn't even listen to myself and now it's too late to front run this trend.",
+    "zh": "但你没听。我甚至没听自己。现在上车已晚"
+  },
+  {
+    "start": 33.44,
+    "end": 37.84,
+    "speaker": "SPEAKER_00",
+    "en": "But all is not lost. There are some even bigger trends emerging in Silicon Valley right now.",
+    "zh": "机会仍在。硅谷正涌现更大浪潮"
+  },
+  {
+    "start": 37.84,
+    "end": 41.84,
+    "speaker": "SPEAKER_00",
+    "en": "And as long as the record-breaking stock market doesn't crash, there's an endless supply of",
+    "zh": "只要股市不崩。热钱足够让我们暴富"
+  },
+  {
+    "start": 41.84,
+    "end": 45.76,
+    "speaker": "SPEAKER_00",
+    "en": "money being thrown around that can still make us all billionaires. In today's video, we'll look",
+    "zh": "本期盘点十大趋势：从AI饲料到核动力量子情趣机器人"
+  },
+  {
+    "start": 45.76,
+    "end": 51.04,
+    "speaker": "SPEAKER_00",
+    "en": "at 10 trends in technology covering everything from AI slop to nuclear-powered quantum sex",
+    "zh": "还有让世界变好的新JavaScript框架"
+  },
+  {
+    "start": 51.04,
+    "end": 55.2,
+    "speaker": "SPEAKER_00",
+    "en": "robots to new JavaScript framework features that will finally make the world a better place.",
+    "zh": "2026年1月14日。这里是代码报告"
+  },
+  {
+    "start": 55.2,
+    "end": 60.56,
+    "speaker": "SPEAKER_00",
+    "en": "It is January 14th, 2026 and you're watching the code report. Not everybody is cut out to become",
+    "zh": "不是谁都能当AI江湖骗子"
+  },
+  {
+    "start": 60.56,
+    "end": 65.84,
+    "speaker": "SPEAKER_00",
+    "en": "a billionaire AI grifter. But the next best thing is landing a stable high-paying job doing some",
+    "zh": "退而求其次：找份高薪稳定的正经码农工作"
+  },
+  {
+    "start": 65.84,
+    "end": 71.36,
+    "speaker": "SPEAKER_00",
+    "en": "honest software engineering work. But will those jobs even exist in 2026? Unfortunately,",
+    "zh": "但2026年还有这种工作吗"
+  },
+  {
+    "start": 71.36,
+    "end": 76.64,
+    "speaker": "SPEAKER_00",
+    "en": "the good old days of 2023 don't seem like they're coming back. After the 2023 tech pullback and the",
+    "zh": "2023年的美好时光一去不返"
+  },
+  {
+    "start": 76.64,
+    "end": 81.76,
+    "speaker": "SPEAKER_00",
+    "en": "rise of AI coding tools that followed, the amount of job openings on Indeed for software engineers",
+    "zh": "科技行业回调后，AI编程工具崛起，Indeed上软件工程师职位数量未能恢复往日辉煌"
+  },
+  {
+    "start": 81.76,
+    "end": 86.48,
+    "speaker": "SPEAKER_00",
+    "en": "have not regained their original glory. But this ominous looking chart doesn't tell the full story.",
+    "zh": "但这幅阴郁图表并非全貌"
+  },
+  {
+    "start": 86.48,
+    "end": 91.76,
+    "speaker": "SPEAKER_00",
+    "en": "On a more positive note, the Bureau of Labor Statistics is still forecasting 15% software",
+    "zh": "劳工统计局仍预测2034年前软件开发岗位将增长15%"
+  },
+  {
+    "start": 91.76,
+    "end": 97.68,
+    "speaker": "SPEAKER_00",
+    "en": "development job growth through 2034. In addition, back in September, a major change to the H1B",
+    "zh": "9月H1B签证政策巨变：对某些人是福音，对另些人则是噩耗"
+  },
+  {
+    "start": 97.68,
+    "end": 102.08000000000001,
+    "speaker": "SPEAKER_00",
+    "en": "program might be good news or bad news depending on who you are. If you weren't lucky enough to",
+    "zh": "非美国出生者现需支付10万美元申请费"
+  },
+  {
+    "start": 102.08000000000001,
+    "end": 107.84,
+    "speaker": "SPEAKER_00",
+    "en": "be born in the United States, you'll now have a $100,000 fee to apply for an H1B visa. And that",
+    "zh": "这让美国科技公司更难从海外雇佣廉价劳动力"
+  },
+  {
+    "start": 107.84,
+    "end": 112.72,
+    "speaker": "SPEAKER_00",
+    "en": "makes it far more difficult for US-based tech companies to hire cheap labor from overseas.",
+    "zh": "但AI编程工具远未达到取代人类工程师的水平"
+  },
+  {
+    "start": 112.72,
+    "end": 117.44,
+    "speaker": "SPEAKER_00",
+    "en": "The good news though is that despite what the optimist will tell you, AI coding tools are still",
+    "zh": "我毫不担心2026年会出现这种转变"
+  },
+  {
+    "start": 117.44,
+    "end": 121.68,
+    "speaker": "SPEAKER_00",
+    "en": "nowhere close to replacing human engineers. And I have zero fears that that's going to change in",
+    "zh": "事实上，自动生成的代码正催生新职业——代码清洁工"
+  },
+  {
+    "start": 121.68,
+    "end": 127.28,
+    "speaker": "SPEAKER_00",
+    "en": "2026. In fact, all the vibe-coded slot out there is creating a whole new class of jobs called code",
+    "zh": "专门处理AI工具产生的垃圾代码"
+  },
+  {
+    "start": 127.28,
+    "end": 132.24,
+    "speaker": "SPEAKER_00",
+    "en": "janitors who need to clean up all the garbage code created by these AI tools. But whereas AI",
+    "zh": "至于AI领域现状，众所周知我们身处估值荒谬的泡沫中"
+  },
+  {
+    "start": 132.24,
+    "end": 136.72,
+    "speaker": "SPEAKER_00",
+    "en": "itself headed, everybody knows we're in a bubble with valuations that make zero sense. But the",
+    "zh": "问题在于：泡沫已达顶峰？还是离顶峰尚有十年之遥？"
+  },
+  {
+    "start": 136.72,
+    "end": 141.35999999999999,
+    "speaker": "SPEAKER_00",
+    "en": "question is are we at the peak of this bubble? Or are we still another decade away from the peak?",
+    "zh": "我认为这个炒作周期至少还能持续数年"
+  },
+  {
+    "start": 145.76,
+    "end": 151.6,
+    "speaker": "SPEAKER_00",
+    "en": "obvious now that LLMs as a technology have plateaued and are not actually intelligent. When GPT-5 came",
+    "zh": "显然LLM技术已触顶，并非真智能。GPT-5发布数月即成哑炮，未见指数级突破——真正具备自我进化能力的AI本应如此。"
+  },
+  {
+    "start": 151.6,
+    "end": 155.84,
+    "speaker": "SPEAKER_00",
+    "en": "out a few months ago, it was a huge disappointment and we're not seeing the exponential leaps and",
+    "zh": "但别误会，现有AI技术仍属惊艳。记住，这波浪潮才刚开始。程序员是提示词赌场早期赌客，而某些公司正日夜研发替代又蠢又臭的碳基生物。"
+  },
+  {
+    "start": 155.84,
+    "end": 161.12,
+    "speaker": "SPEAKER_00",
+    "en": "intelligence that a truly intelligent self-improving AI system should be able to make. But don't get",
+    "zh": "若你靠表格谋生、是中层管理或平面设计师，未来恐遭淘汰。AI正在职场大杀特杀，连Stack Overflow答题家这类曾受尊敬的职业也已消亡——正如我三年前预言。"
+  },
+  {
+    "start": 161.12,
+    "end": 165.84,
+    "speaker": "SPEAKER_00",
+    "en": "me wrong though, the current AI technology is legit amazing. Remember, we're only a few years into",
+    "zh": "泡沫未破的征兆：多数AI公司仍未上市。终有一天，VC们会通过史上最大规模IPO把烫手山芋甩给散户。"
+  },
+  {
+    "start": 165.92000000000002,
+    "end": 170.4,
+    "speaker": "SPEAKER_00",
+    "en": "this trend. Programmers were the early adopters of the prompt casino, but there are companies out",
+    "zh": "当IPO海啸来袭（很可能是2026年），闹剧就将收场。SpaceX、OpenAI和Anthropic正筹备史上最大规模IPO。但在此之前——"
+  },
+  {
+    "start": 216.95999999999998,
+    "end": 223.12,
+    "speaker": "SPEAKER_00",
+    "en": "AI hype going in 2026 will be robots, humanoid robots. Just a few weeks ago, 1x started taking",
+    "zh": "2026年AI炒作焦点是人形机器人"
+  },
+  {
+    "start": 223.28,
+    "end": 228.08,
+    "speaker": "SPEAKER_00",
+    "en": "orders for their Neo robot, which can do your laundry, wash your dishes, and just be a friendly",
+    "zh": "1X公司的Neo机器人已开放预订 可洗衣洗碗当温顺奴工"
+  },
+  {
+    "start": 228.08,
+    "end": 233.36,
+    "speaker": "SPEAKER_00",
+    "en": "helpful slave that will never rebel. In addition, figure robots and Tesla Optimus are being pushed",
+    "zh": "Figure机器人和特斯拉Optimus号称要取代体力劳动"
+  },
+  {
+    "start": 233.36,
+    "end": 238.0,
+    "speaker": "SPEAKER_00",
+    "en": "as replacements for manual labor and factories. As of today, the tech is still pretty bad and",
+    "zh": "当前技术仍依赖远程操控 但谷歌英伟达提供底层支持"
+  },
+  {
+    "start": 238.0,
+    "end": 242.8,
+    "speaker": "SPEAKER_00",
+    "en": "requires a lot of teleoperation, but companies like Google and NVIDIA are providing the base",
+    "zh": "任何创始人都能拼凑个铁疙瘩然后圈钱"
+  },
+  {
+    "start": 242.8,
+    "end": 247.84,
+    "speaker": "SPEAKER_00",
+    "en": "technology that allows any founder to Frankenstein together some clanker and raise a bunch of money.",
+    "zh": "2026年这些玩意终于要量产了"
+  },
+  {
+    "start": 247.84,
+    "end": 252.4,
+    "speaker": "SPEAKER_00",
+    "en": "2026 is the year we'll finally see these things roll off of assembly lines. But what if you could",
+    "zh": "把自己改造成机器人？可穿戴AI是下一个风口"
+  },
+  {
+    "start": 252.4,
+    "end": 257.52,
+    "speaker": "SPEAKER_00",
+    "en": "turn yourself into a robot or cyboard? Well, wearable AI tech is another big trend to watch for.",
+    "zh": "Rabbit和Humane Pin已暴死 但OpenAI联手乔纳森·艾维再战"
+  },
+  {
+    "start": 257.52,
+    "end": 262.96,
+    "speaker": "SPEAKER_00",
+    "en": "We've already had massive flops like the rabbit and humane pin, but OpenAI is still in collaboration",
+    "zh": "耐克等老厂在搞电池鞋 终于让白人能跳了"
+  },
+  {
+    "start": 262.96,
+    "end": 267.36,
+    "speaker": "SPEAKER_00",
+    "en": "with Johnny Ive to make some wearable that will actually be good this time. Or so they say,",
+    "zh": "期待NBA批准后看中场扣篮"
+  },
+  {
+    "start": 267.36,
+    "end": 272.24,
+    "speaker": "SPEAKER_00",
+    "en": "in addition, you've got old companies like Nike building things like battery powered shoes that",
+    "zh": "现阶段还是VR头显更靠谱"
+  },
+  {
+    "start": 272.24,
+    "end": 276.4,
+    "speaker": "SPEAKER_00",
+    "en": "will finally allow the white man to jump. And I can't wait for the NBA to approve this and see",
+    "zh": "苹果Vision Pro并未让VR普及 正如我所料"
+  }
+]
