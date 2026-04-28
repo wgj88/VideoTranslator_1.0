@@ -1,0 +1,19 @@
+﻿{
+  "filters": {
+    "duration": {
+      "min_seconds": 30,
+      "max_seconds": 600
+    },
+    "metrics": {
+      "min_view_count": 500
+    },
+    "content": {
+      "include_keywords": [],
+      "exclude_keywords": ["asmr", "non-stop", "live", "compilation"]
+    }
+  },
+  "editor_settings": {
+    "min_viral_score": 70,
+    "focus_areas": ["tech", "science", "innovation", "useful tips", "documentary"]
+  }
+}

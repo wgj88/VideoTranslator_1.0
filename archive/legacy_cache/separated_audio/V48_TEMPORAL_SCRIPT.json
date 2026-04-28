@@ -1,0 +1,920 @@
+[
+  {
+    "start": 2.254,
+    "end": 11.234,
+    "text": " Navigate through this year's Expo, where dazzling technological products spanning manufacturing, retail, beauty, and agriculture are garnering attention.",
+    "words": [
+      {
+        "word": "Navigate",
+        "start": 2.254,
+        "end": 2.675,
+        "score": 0.851
+      },
+      {
+        "word": "through",
+        "start": 2.695,
+        "end": 2.896,
+        "score": 0.889
+      },
+      {
+        "word": "this",
+        "start": 2.936,
+        "end": 3.096,
+        "score": 0.88
+      },
+      {
+        "word": "year's",
+        "start": 3.136,
+        "end": 3.357,
+        "score": 0.773
+      },
+      {
+        "word": "Expo,",
+        "start": 3.477,
+        "end": 3.898,
+        "score": 0.921
+      },
+      {
+        "word": "where",
+        "start": 4.158,
+        "end": 4.359,
+        "score": 0.757
+      },
+      {
+        "word": "dazzling",
+        "start": 4.419,
+        "end": 4.84,
+        "score": 0.898
+      },
+      {
+        "word": "technological",
+        "start": 4.92,
+        "end": 5.602,
+        "score": 0.883
+      },
+      {
+        "word": "products",
+        "start": 5.642,
+        "end": 6.103,
+        "score": 0.868
+      },
+      {
+        "word": "spanning",
+        "start": 6.303,
+        "end": 6.704,
+        "score": 0.956
+      },
+      {
+        "word": "manufacturing,",
+        "start": 6.784,
+        "end": 7.586,
+        "score": 0.883
+      },
+      {
+        "word": "retail,",
+        "start": 7.887,
+        "end": 8.288,
+        "score": 0.872
+      },
+      {
+        "word": "beauty,",
+        "start": 8.528,
+        "end": 8.889,
+        "score": 0.913
+      },
+      {
+        "word": "and",
+        "start": 8.949,
+        "end": 9.049,
+        "score": 0.744
+      },
+      {
+        "word": "agriculture",
+        "start": 9.169,
+        "end": 9.791,
+        "score": 0.81
+      },
+      {
+        "word": "are",
+        "start": 9.811,
+        "end": 10.152,
+        "score": 0.395
+      },
+      {
+        "word": "garnering",
+        "start": 10.192,
+        "end": 10.673,
+        "score": 0.783
+      },
+      {
+        "word": "attention.",
+        "start": 10.733,
+        "end": 11.234,
+        "score": 0.936
+      }
+    ],
+    "avg_logprob": -0.2102864588300387,
+    "speaker": "SPEAKER_00",
+    "zh": "畅游今年博览会，制造业、零售业、美妆及农业领域的炫目科技产品正引发热潮！",
+    "target_len": 37,
+    "actual_len": 36
+  },
+  {
+    "start": 12.227,
+    "end": 13.108,
+    "text": " You won't believe it.",
+    "words": [
+      {
+        "word": "You",
+        "start": 12.227,
+        "end": 12.347,
+        "score": 0.901
+      },
+      {
+        "word": "won't",
+        "start": 12.387,
+        "end": 12.567,
+        "score": 0.758
+      },
+      {
+        "word": "believe",
+        "start": 12.607,
+        "end": 12.928,
+        "score": 0.838
+      },
+      {
+        "word": "it.",
+        "start": 13.008,
+        "end": 13.108,
+        "score": 0.879
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_00",
+    "zh": "难以置信！",
+    "target_len": 4,
+    "actual_len": 5
+  },
+  {
+    "start": 13.388,
+    "end": 14.729,
+    "text": "This is a flying car.",
+    "words": [
+      {
+        "word": "This",
+        "start": 13.388,
+        "end": 13.548,
+        "score": 0.893
+      },
+      {
+        "word": "is",
+        "start": 13.628,
+        "end": 13.728,
+        "score": 0.582
+      },
+      {
+        "word": "a",
+        "start": 13.768,
+        "end": 13.808,
+        "score": 0.524
+      },
+      {
+        "word": "flying",
+        "start": 13.908,
+        "end": 14.329,
+        "score": 0.846
+      },
+      {
+        "word": "car.",
+        "start": 14.409,
+        "end": 14.729,
+        "score": 0.77
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_00",
+    "zh": "这是飞行汽车！",
+    "target_len": 5,
+    "actual_len": 7
+  },
+  {
+    "start": 15.089,
+    "end": 18.231,
+    "text": "This intelligent car uses modern aviation technology.",
+    "words": [
+      {
+        "word": "This",
+        "start": 15.089,
+        "end": 15.289,
+        "score": 0.75
+      },
+      {
+        "word": "intelligent",
+        "start": 15.349,
+        "end": 15.91,
+        "score": 0.845
+      },
+      {
+        "word": "car",
+        "start": 15.95,
+        "end": 16.27,
+        "score": 0.757
+      },
+      {
+        "word": "uses",
+        "start": 16.33,
+        "end": 16.59,
+        "score": 0.504
+      },
+      {
+        "word": "modern",
+        "start": 16.65,
+        "end": 17.07,
+        "score": 0.71
+      },
+      {
+        "word": "aviation",
+        "start": 17.17,
+        "end": 17.571,
+        "score": 0.622
+      },
+      {
+        "word": "technology.",
+        "start": 17.591,
+        "end": 18.231,
+        "score": 0.898
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_00",
+    "zh": "这款智能车采用尖端航空科技！",
+    "target_len": 13,
+    "actual_len": 14
+  },
+  {
+    "start": 21.433,
+    "end": 24.355,
+    "text": "Wow, it feels like that I have stepped into the future.",
+    "words": [
+      {
+        "word": "Wow,",
+        "start": 21.433,
+        "end": 21.694,
+        "score": 0.72
+      },
+      {
+        "word": "it",
+        "start": 21.754,
+        "end": 21.954,
+        "score": 0.428
+      },
+      {
+        "word": "feels",
+        "start": 21.974,
+        "end": 22.254,
+        "score": 0.742
+      },
+      {
+        "word": "like",
+        "start": 22.294,
+        "end": 22.474,
+        "score": 0.904
+      },
+      {
+        "word": "that",
+        "start": 22.514,
+        "end": 22.714,
+        "score": 0.794
+      },
+      {
+        "word": "I",
+        "start": 22.834,
+        "end": 22.954,
+        "score": 0.596
+      },
+      {
+        "word": "have",
+        "start": 22.995,
+        "end": 23.195,
+        "score": 0.632
+      },
+      {
+        "word": "stepped",
+        "start": 23.215,
+        "end": 23.535,
+        "score": 0.393
+      },
+      {
+        "word": "into",
+        "start": 23.575,
+        "end": 23.775,
+        "score": 0.902
+      },
+      {
+        "word": "the",
+        "start": 23.795,
+        "end": 23.895,
+        "score": 0.718
+      },
+      {
+        "word": "future.",
+        "start": 23.935,
+        "end": 24.355,
+        "score": 0.737
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_00",
+    "zh": "哇，仿佛瞬间穿越到未来！",
+    "target_len": 12,
+    "actual_len": 12
+  },
+  {
+    "start": 24.996,
+    "end": 29.059,
+    "text": "I can see high quality development from walking around the expo.",
+    "words": [
+      {
+        "word": "I",
+        "start": 24.996,
+        "end": 25.056,
+        "score": 0.722
+      },
+      {
+        "word": "can",
+        "start": 25.096,
+        "end": 25.316,
+        "score": 0.813
+      },
+      {
+        "word": "see",
+        "start": 25.376,
+        "end": 25.536,
+        "score": 0.875
+      },
+      {
+        "word": "high",
+        "start": 25.576,
+        "end": 25.716,
+        "score": 0.802
+      },
+      {
+        "word": "quality",
+        "start": 25.756,
+        "end": 26.117,
+        "score": 0.858
+      },
+      {
+        "word": "development",
+        "start": 26.157,
+        "end": 26.577,
+        "score": 0.972
+      },
+      {
+        "word": "from",
+        "start": 26.637,
+        "end": 26.857,
+        "score": 0.767
+      },
+      {
+        "word": "walking",
+        "start": 27.798,
+        "end": 28.158,
+        "score": 0.9
+      },
+      {
+        "word": "around",
+        "start": 28.198,
+        "end": 28.378,
+        "score": 0.911
+      },
+      {
+        "word": "the",
+        "start": 28.418,
+        "end": 28.498,
+        "score": 0.883
+      },
+      {
+        "word": "expo.",
+        "start": 28.578,
+        "end": 29.059,
+        "score": 0.957
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_01",
+    "zh": "逛展时，我看到了高质量的发展成果！",
+    "target_len": 17,
+    "actual_len": 17
+  },
+  {
+    "start": 35.083,
+    "end": 35.883,
+    "text": "It's very evident.",
+    "words": [
+      {
+        "word": "It's",
+        "start": 35.083,
+        "end": 35.183,
+        "score": 0.909
+      },
+      {
+        "word": "very",
+        "start": 35.223,
+        "end": 35.443,
+        "score": 0.815
+      },
+      {
+        "word": "evident.",
+        "start": 35.523,
+        "end": 35.883,
+        "score": 0.914
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_01",
+    "zh": "显而易见！",
+    "target_len": 4,
+    "actual_len": 5
+  },
+  {
+    "start": 36.124,
+    "end": 40.747,
+    "text": "You can see that there is an emphasis on this development in the markets, which is going very well.",
+    "words": [
+      {
+        "word": "You",
+        "start": 36.124,
+        "end": 36.224,
+        "score": 0.887
+      },
+      {
+        "word": "can",
+        "start": 36.264,
+        "end": 36.364,
+        "score": 0.977
+      },
+      {
+        "word": "see",
+        "start": 36.384,
+        "end": 36.504,
+        "score": 0.768
+      },
+      {
+        "word": "that",
+        "start": 36.524,
+        "end": 36.624,
+        "score": 0.934
+      },
+      {
+        "word": "there",
+        "start": 36.644,
+        "end": 36.784,
+        "score": 0.958
+      },
+      {
+        "word": "is",
+        "start": 36.824,
+        "end": 36.904,
+        "score": 0.666
+      },
+      {
+        "word": "an",
+        "start": 36.924,
+        "end": 36.964,
+        "score": 0.988
+      },
+      {
+        "word": "emphasis",
+        "start": 37.044,
+        "end": 37.465,
+        "score": 0.864
+      },
+      {
+        "word": "on",
+        "start": 37.545,
+        "end": 37.605,
+        "score": 0.95
+      },
+      {
+        "word": "this",
+        "start": 37.625,
+        "end": 37.825,
+        "score": 0.805
+      },
+      {
+        "word": "development",
+        "start": 37.925,
+        "end": 38.465,
+        "score": 0.878
+      },
+      {
+        "word": "in",
+        "start": 38.525,
+        "end": 38.585,
+        "score": 0.76
+      },
+      {
+        "word": "the",
+        "start": 38.605,
+        "end": 38.685,
+        "score": 0.831
+      },
+      {
+        "word": "markets,",
+        "start": 38.725,
+        "end": 39.226,
+        "score": 0.922
+      },
+      {
+        "word": "which",
+        "start": 39.486,
+        "end": 39.746,
+        "score": 0.881
+      },
+      {
+        "word": "is",
+        "start": 39.886,
+        "end": 40.046,
+        "score": 0.758
+      },
+      {
+        "word": "going",
+        "start": 40.106,
+        "end": 40.307,
+        "score": 0.978
+      },
+      {
+        "word": "very",
+        "start": 40.347,
+        "end": 40.527,
+        "score": 0.82
+      },
+      {
+        "word": "well.",
+        "start": 40.567,
+        "end": 40.747,
+        "score": 0.999
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_01",
+    "zh": "市场正全力推进这项发展，势头强劲！",
+    "target_len": 19,
+    "actual_len": 17
+  },
+  {
+    "start": 45.248,
+    "end": 50.531,
+    "text": " This product is lying to easily transform your regular sofa chair into a massage chair.",
+    "words": [
+      {
+        "word": "This",
+        "start": 45.248,
+        "end": 45.448,
+        "score": 0.832
+      },
+      {
+        "word": "product",
+        "start": 45.488,
+        "end": 45.988,
+        "score": 0.523
+      },
+      {
+        "word": "is",
+        "start": 46.048,
+        "end": 46.128,
+        "score": 0.629
+      },
+      {
+        "word": "lying",
+        "start": 46.289,
+        "end": 46.629,
+        "score": 0.86
+      },
+      {
+        "word": "to",
+        "start": 46.669,
+        "end": 46.809,
+        "score": 0.917
+      },
+      {
+        "word": "easily",
+        "start": 46.829,
+        "end": 47.469,
+        "score": 0.457
+      },
+      {
+        "word": "transform",
+        "start": 47.509,
+        "end": 47.909,
+        "score": 0.838
+      },
+      {
+        "word": "your",
+        "start": 47.929,
+        "end": 48.089,
+        "score": 0.378
+      },
+      {
+        "word": "regular",
+        "start": 48.129,
+        "end": 48.49,
+        "score": 0.761
+      },
+      {
+        "word": "sofa",
+        "start": 48.51,
+        "end": 48.97,
+        "score": 0.794
+      },
+      {
+        "word": "chair",
+        "start": 49.01,
+        "end": 49.27,
+        "score": 0.903
+      },
+      {
+        "word": "into",
+        "start": 49.57,
+        "end": 49.77,
+        "score": 0.921
+      },
+      {
+        "word": "a",
+        "start": 49.79,
+        "end": 49.83,
+        "score": 0.603
+      },
+      {
+        "word": "massage",
+        "start": 49.87,
+        "end": 50.19,
+        "score": 0.692
+      },
+      {
+        "word": "chair.",
+        "start": 50.21,
+        "end": 50.531,
+        "score": 0.791
+      }
+    ],
+    "avg_logprob": -0.2852822599872466,
+    "speaker": "SPEAKER_00",
+    "zh": "这款产品能轻松将普通沙发椅变身按摩椅！",
+    "target_len": 22,
+    "actual_len": 19
+  },
+  {
+    "start": 50.851,
+    "end": 51.471,
+    "text": "Just sit down.",
+    "words": [
+      {
+        "word": "Just",
+        "start": 50.851,
+        "end": 51.031,
+        "score": 0.863
+      },
+      {
+        "word": "sit",
+        "start": 51.071,
+        "end": 51.191,
+        "score": 0.358
+      },
+      {
+        "word": "down.",
+        "start": 51.231,
+        "end": 51.471,
+        "score": 0.689
+      }
+    ],
+    "avg_logprob": -0.2852822599872466,
+    "speaker": "SPEAKER_00",
+    "zh": "快坐下！",
+    "target_len": 4,
+    "actual_len": 4
+  },
+  {
+    "start": 74.685,
+    "end": 78.406,
+    "text": " Wow, they enjoy a full-go, they synchronize and massage.",
+    "words": [
+      {
+        "word": "Wow,",
+        "start": 74.685,
+        "end": 74.965,
+        "score": 0.714
+      },
+      {
+        "word": "they",
+        "start": 75.505,
+        "end": 75.765,
+        "score": 0.791
+      },
+      {
+        "word": "enjoy",
+        "start": 75.885,
+        "end": 76.265,
+        "score": 0.611
+      },
+      {
+        "word": "a",
+        "start": 76.305,
+        "end": 76.445,
+        "score": 0.583
+      },
+      {
+        "word": "full-go,",
+        "start": 76.465,
+        "end": 76.826,
+        "score": 0.483
+      },
+      {
+        "word": "they",
+        "start": 76.846,
+        "end": 77.026,
+        "score": 0.925
+      },
+      {
+        "word": "synchronize",
+        "start": 77.286,
+        "end": 77.866,
+        "score": 0.514
+      },
+      {
+        "word": "and",
+        "start": 77.946,
+        "end": 78.006,
+        "score": 0.144
+      },
+      {
+        "word": "massage.",
+        "start": 78.026,
+        "end": 78.406,
+        "score": 0.501
+      }
+    ],
+    "avg_logprob": -0.5903320200741291,
+    "speaker": "SPEAKER_00",
+    "zh": "哇，他们全速同步，享受按摩快感！",
+    "target_len": 15,
+    "actual_len": 16
+  },
+  {
+    "start": 133.264,
+    "end": 141.21,
+    "text": "The Expo shows that China is creating new opportunities for business worldwide in its pursuit of high-quality development.",
+    "words": [
+      {
+        "word": "The",
+        "start": 133.264,
+        "end": 133.364,
+        "score": 0.838
+      },
+      {
+        "word": "Expo",
+        "start": 133.464,
+        "end": 133.884,
+        "score": 0.797
+      },
+      {
+        "word": "shows",
+        "start": 133.944,
+        "end": 134.384,
+        "score": 0.847
+      },
+      {
+        "word": "that",
+        "start": 134.424,
+        "end": 134.645,
+        "score": 0.597
+      },
+      {
+        "word": "China",
+        "start": 134.925,
+        "end": 135.285,
+        "score": 0.946
+      },
+      {
+        "word": "is",
+        "start": 135.305,
+        "end": 135.385,
+        "score": 0.48
+      },
+      {
+        "word": "creating",
+        "start": 135.465,
+        "end": 135.866,
+        "score": 0.898
+      },
+      {
+        "word": "new",
+        "start": 135.946,
+        "end": 136.146,
+        "score": 0.909
+      },
+      {
+        "word": "opportunities",
+        "start": 136.266,
+        "end": 136.946,
+        "score": 0.909
+      },
+      {
+        "word": "for",
+        "start": 137.207,
+        "end": 137.427,
+        "score": 0.776
+      },
+      {
+        "word": "business",
+        "start": 137.467,
+        "end": 137.887,
+        "score": 0.86
+      },
+      {
+        "word": "worldwide",
+        "start": 137.987,
+        "end": 138.528,
+        "score": 0.743
+      },
+      {
+        "word": "in",
+        "start": 138.828,
+        "end": 138.928,
+        "score": 0.491
+      },
+      {
+        "word": "its",
+        "start": 139.008,
+        "end": 139.128,
+        "score": 0.494
+      },
+      {
+        "word": "pursuit",
+        "start": 139.208,
+        "end": 139.748,
+        "score": 0.895
+      },
+      {
+        "word": "of",
+        "start": 139.768,
+        "end": 139.809,
+        "score": 0.0
+      },
+      {
+        "word": "high-quality",
+        "start": 139.869,
+        "end": 140.629,
+        "score": 0.854
+      },
+      {
+        "word": "development.",
+        "start": 140.649,
+        "end": 141.21,
+        "score": 0.689
+      }
+    ],
+    "avg_logprob": -0.17236328381113708,
+    "speaker": "SPEAKER_00",
+    "zh": "本届博览会彰显，中国正以高质量发展为全球商界创造崭新机遇！",
+    "target_len": 33,
+    "actual_len": 29
+  },
+  {
+    "start": 141.85,
+    "end": 142.591,
+    "text": "See you next year.",
+    "words": [
+      {
+        "word": "See",
+        "start": 141.85,
+        "end": 142.03,
+        "score": 0.884
+      },
+      {
+        "word": "you",
+        "start": 142.05,
+        "end": 142.19,
+        "score": 0.746
+      },
+      {
+        "word": "next",
+        "start": 142.25,
+        "end": 142.471,
+        "score": 0.91
+      },
+      {
+        "word": "year.",
+        "start": 142.491,
+        "end": 142.591,
+        "score": 0.222
+      }
+    ],
+    "avg_logprob": -0.17236328381113708,
+    "speaker": "SPEAKER_00",
+    "zh": "明年见！",
+    "target_len": 4,
+    "actual_len": 4
+  }
+]

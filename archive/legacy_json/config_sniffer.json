@@ -1,0 +1,8 @@
+﻿{
+  "sniffer_settings": {
+    "seeds": ["tech", "gadgets", "innovation", "science", "facts", "documentary", "engineering"],
+    "modifiers": ["insane", "latest", "top 10", "how it works", "hidden", "2026"],
+    "max_probes": 4,
+    "results_per_probe": 8
+  }
+}

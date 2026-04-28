@@ -1,0 +1,724 @@
+[
+  {
+    "start": 2.254,
+    "end": 11.234,
+    "text": " Navigate through this year's Expo, where dazzling technological products spanning manufacturing, retail, beauty, and agriculture are garnering attention.",
+    "words": [
+      {
+        "word": "Navigate",
+        "start": 2.254,
+        "end": 2.675,
+        "score": 0.851
+      },
+      {
+        "word": "through",
+        "start": 2.695,
+        "end": 2.896,
+        "score": 0.889
+      },
+      {
+        "word": "this",
+        "start": 2.936,
+        "end": 3.096,
+        "score": 0.88
+      },
+      {
+        "word": "year's",
+        "start": 3.136,
+        "end": 3.357,
+        "score": 0.773
+      },
+      {
+        "word": "Expo,",
+        "start": 3.477,
+        "end": 3.898,
+        "score": 0.921
+      },
+      {
+        "word": "where",
+        "start": 4.158,
+        "end": 4.359,
+        "score": 0.757
+      },
+      {
+        "word": "dazzling",
+        "start": 4.419,
+        "end": 4.84,
+        "score": 0.898
+      },
+      {
+        "word": "technological",
+        "start": 4.92,
+        "end": 5.602,
+        "score": 0.883
+      },
+      {
+        "word": "products",
+        "start": 5.642,
+        "end": 6.103,
+        "score": 0.868
+      },
+      {
+        "word": "spanning",
+        "start": 6.303,
+        "end": 6.704,
+        "score": 0.956
+      },
+      {
+        "word": "manufacturing,",
+        "start": 6.784,
+        "end": 7.586,
+        "score": 0.883
+      },
+      {
+        "word": "retail,",
+        "start": 7.887,
+        "end": 8.288,
+        "score": 0.872
+      },
+      {
+        "word": "beauty,",
+        "start": 8.528,
+        "end": 8.889,
+        "score": 0.913
+      },
+      {
+        "word": "and",
+        "start": 8.949,
+        "end": 9.049,
+        "score": 0.744
+      },
+      {
+        "word": "agriculture",
+        "start": 9.169,
+        "end": 9.791,
+        "score": 0.81
+      },
+      {
+        "word": "are",
+        "start": 9.811,
+        "end": 10.152,
+        "score": 0.395
+      },
+      {
+        "word": "garnering",
+        "start": 10.192,
+        "end": 10.673,
+        "score": 0.783
+      },
+      {
+        "word": "attention.",
+        "start": 10.733,
+        "end": 11.234,
+        "score": 0.936
+      }
+    ],
+    "avg_logprob": -0.2102864588300387,
+    "speaker": "SPEAKER_00",
+    "zh_final": "[SPEAKER_00] 畅游本届博览会，横跨制造、零售、美妆和农业领域的炫目科技产品正引发广泛关注。",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v9_rebuild_wavs\\v9_rebuild_0.wav"
+  },
+  {
+    "start": 12.227,
+    "end": 13.108,
+    "text": " You won't believe it.",
+    "words": [
+      {
+        "word": "You",
+        "start": 12.227,
+        "end": 12.347,
+        "score": 0.901
+      },
+      {
+        "word": "won't",
+        "start": 12.387,
+        "end": 12.567,
+        "score": 0.758
+      },
+      {
+        "word": "believe",
+        "start": 12.607,
+        "end": 12.928,
+        "score": 0.838
+      },
+      {
+        "word": "it.",
+        "start": 13.008,
+        "end": 13.108,
+        "score": 0.879
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_00",
+    "zh_final": "[SPEAKER_00] 您绝对难以置信。",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v9_rebuild_wavs\\v9_rebuild_1.wav"
+  },
+  {
+    "start": 13.388,
+    "end": 14.729,
+    "text": "This is a flying car.",
+    "words": [
+      {
+        "word": "This",
+        "start": 13.388,
+        "end": 13.548,
+        "score": 0.893
+      },
+      {
+        "word": "is",
+        "start": 13.628,
+        "end": 13.728,
+        "score": 0.582
+      },
+      {
+        "word": "a",
+        "start": 13.768,
+        "end": 13.808,
+        "score": 0.524
+      },
+      {
+        "word": "flying",
+        "start": 13.908,
+        "end": 14.329,
+        "score": 0.846
+      },
+      {
+        "word": "car.",
+        "start": 14.409,
+        "end": 14.729,
+        "score": 0.77
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_00",
+    "zh_final": "[SPEAKER_00] 这是一辆飞行汽车。",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v9_rebuild_wavs\\v9_rebuild_2.wav"
+  },
+  {
+    "start": 15.089,
+    "end": 18.231,
+    "text": "This intelligent car uses modern aviation technology.",
+    "words": [
+      {
+        "word": "This",
+        "start": 15.089,
+        "end": 15.289,
+        "score": 0.75
+      },
+      {
+        "word": "intelligent",
+        "start": 15.349,
+        "end": 15.91,
+        "score": 0.845
+      },
+      {
+        "word": "car",
+        "start": 15.95,
+        "end": 16.27,
+        "score": 0.757
+      },
+      {
+        "word": "uses",
+        "start": 16.33,
+        "end": 16.59,
+        "score": 0.504
+      },
+      {
+        "word": "modern",
+        "start": 16.65,
+        "end": 17.07,
+        "score": 0.71
+      },
+      {
+        "word": "aviation",
+        "start": 17.17,
+        "end": 17.571,
+        "score": 0.622
+      },
+      {
+        "word": "technology.",
+        "start": 17.591,
+        "end": 18.231,
+        "score": 0.898
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_00",
+    "zh_final": "[SPEAKER_00] 这款智能汽车运用了现代航空技术。",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v9_rebuild_wavs\\v9_rebuild_3.wav"
+  },
+  {
+    "start": 18.611,
+    "end": 20.953,
+    "text": "It can travel both on land and in the air.",
+    "words": [
+      {
+        "word": "It",
+        "start": 18.611,
+        "end": 18.712,
+        "score": 0.316
+      },
+      {
+        "word": "can",
+        "start": 18.752,
+        "end": 18.892,
+        "score": 0.876
+      },
+      {
+        "word": "travel",
+        "start": 18.932,
+        "end": 19.272,
+        "score": 0.842
+      },
+      {
+        "word": "both",
+        "start": 19.332,
+        "end": 19.532,
+        "score": 0.546
+      },
+      {
+        "word": "on",
+        "start": 19.592,
+        "end": 19.712,
+        "score": 0.712
+      },
+      {
+        "word": "land",
+        "start": 19.732,
+        "end": 20.032,
+        "score": 0.93
+      },
+      {
+        "word": "and",
+        "start": 20.213,
+        "end": 20.313,
+        "score": 0.79
+      },
+      {
+        "word": "in",
+        "start": 20.413,
+        "end": 20.493,
+        "score": 0.883
+      },
+      {
+        "word": "the",
+        "start": 20.513,
+        "end": 20.613,
+        "score": 0.818
+      },
+      {
+        "word": "air.",
+        "start": 20.773,
+        "end": 20.953,
+        "score": 0.848
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_00",
+    "zh_final": "[SPEAKER_00] 它既能陆地行驶又可空中翱翔。",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v9_rebuild_wavs\\v9_rebuild_4.wav"
+  },
+  {
+    "start": 21.433,
+    "end": 24.355,
+    "text": "Wow, it feels like that I have stepped into the future.",
+    "words": [
+      {
+        "word": "Wow,",
+        "start": 21.433,
+        "end": 21.694,
+        "score": 0.72
+      },
+      {
+        "word": "it",
+        "start": 21.754,
+        "end": 21.954,
+        "score": 0.428
+      },
+      {
+        "word": "feels",
+        "start": 21.974,
+        "end": 22.254,
+        "score": 0.742
+      },
+      {
+        "word": "like",
+        "start": 22.294,
+        "end": 22.474,
+        "score": 0.904
+      },
+      {
+        "word": "that",
+        "start": 22.514,
+        "end": 22.714,
+        "score": 0.794
+      },
+      {
+        "word": "I",
+        "start": 22.834,
+        "end": 22.954,
+        "score": 0.596
+      },
+      {
+        "word": "have",
+        "start": 22.995,
+        "end": 23.195,
+        "score": 0.632
+      },
+      {
+        "word": "stepped",
+        "start": 23.215,
+        "end": 23.535,
+        "score": 0.393
+      },
+      {
+        "word": "into",
+        "start": 23.575,
+        "end": 23.775,
+        "score": 0.902
+      },
+      {
+        "word": "the",
+        "start": 23.795,
+        "end": 23.895,
+        "score": 0.718
+      },
+      {
+        "word": "future.",
+        "start": 23.935,
+        "end": 24.355,
+        "score": 0.737
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_00",
+    "zh_final": "[SPEAKER_00] 哇，仿佛瞬间踏入了未来世界。",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v9_rebuild_wavs\\v9_rebuild_5.wav"
+  },
+  {
+    "start": 24.996,
+    "end": 29.059,
+    "text": "I can see high quality development from walking around the expo.",
+    "words": [
+      {
+        "word": "I",
+        "start": 24.996,
+        "end": 25.056,
+        "score": 0.722
+      },
+      {
+        "word": "can",
+        "start": 25.096,
+        "end": 25.316,
+        "score": 0.813
+      },
+      {
+        "word": "see",
+        "start": 25.376,
+        "end": 25.536,
+        "score": 0.875
+      },
+      {
+        "word": "high",
+        "start": 25.576,
+        "end": 25.716,
+        "score": 0.802
+      },
+      {
+        "word": "quality",
+        "start": 25.756,
+        "end": 26.117,
+        "score": 0.858
+      },
+      {
+        "word": "development",
+        "start": 26.157,
+        "end": 26.577,
+        "score": 0.972
+      },
+      {
+        "word": "from",
+        "start": 26.637,
+        "end": 26.857,
+        "score": 0.767
+      },
+      {
+        "word": "walking",
+        "start": 27.798,
+        "end": 28.158,
+        "score": 0.9
+      },
+      {
+        "word": "around",
+        "start": 28.198,
+        "end": 28.378,
+        "score": 0.911
+      },
+      {
+        "word": "the",
+        "start": 28.418,
+        "end": 28.498,
+        "score": 0.883
+      },
+      {
+        "word": "expo.",
+        "start": 28.578,
+        "end": 29.059,
+        "score": 0.957
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_01",
+    "zh_final": "[SPEAKER_01] 通过观展能清晰感受到高质量发展的成果。",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v9_rebuild_wavs\\v9_rebuild_6.wav"
+  },
+  {
+    "start": 29.079,
+    "end": 34.703,
+    "text": "You can see there are many companies that have these high quality technology products.",
+    "words": [
+      {
+        "word": "You",
+        "start": 29.079,
+        "end": 29.199,
+        "score": 0.964
+      },
+      {
+        "word": "can",
+        "start": 29.239,
+        "end": 29.399,
+        "score": 0.919
+      },
+      {
+        "word": "see",
+        "start": 29.479,
+        "end": 29.679,
+        "score": 0.901
+      },
+      {
+        "word": "there",
+        "start": 29.719,
+        "end": 29.859,
+        "score": 0.964
+      },
+      {
+        "word": "are",
+        "start": 29.919,
+        "end": 29.999,
+        "score": 0.831
+      },
+      {
+        "word": "many",
+        "start": 30.019,
+        "end": 30.18,
+        "score": 0.901
+      },
+      {
+        "word": "companies",
+        "start": 30.26,
+        "end": 30.78,
+        "score": 0.916
+      },
+      {
+        "word": "that",
+        "start": 31.28,
+        "end": 31.46,
+        "score": 0.913
+      },
+      {
+        "word": "have",
+        "start": 31.641,
+        "end": 31.861,
+        "score": 0.924
+      },
+      {
+        "word": "these",
+        "start": 31.921,
+        "end": 32.101,
+        "score": 0.802
+      },
+      {
+        "word": "high",
+        "start": 32.141,
+        "end": 32.341,
+        "score": 0.766
+      },
+      {
+        "word": "quality",
+        "start": 32.461,
+        "end": 33.001,
+        "score": 0.896
+      },
+      {
+        "word": "technology",
+        "start": 33.362,
+        "end": 34.042,
+        "score": 0.931
+      },
+      {
+        "word": "products.",
+        "start": 34.222,
+        "end": 34.703,
+        "score": 0.871
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_01",
+    "zh_final": "[SPEAKER_01] 可以看到众多企业都拥有这些高品质的科技产品。",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v9_rebuild_wavs\\v9_rebuild_7.wav"
+  },
+  {
+    "start": 35.083,
+    "end": 35.883,
+    "text": "It's very evident.",
+    "words": [
+      {
+        "word": "It's",
+        "start": 35.083,
+        "end": 35.183,
+        "score": 0.909
+      },
+      {
+        "word": "very",
+        "start": 35.223,
+        "end": 35.443,
+        "score": 0.815
+      },
+      {
+        "word": "evident.",
+        "start": 35.523,
+        "end": 35.883,
+        "score": 0.914
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_01",
+    "zh_final": "[SPEAKER_01] 这是显而易见的。",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v9_rebuild_wavs\\v9_rebuild_8.wav"
+  },
+  {
+    "start": 36.124,
+    "end": 40.747,
+    "text": "You can see that there is an emphasis on this development in the markets, which is going very well.",
+    "words": [
+      {
+        "word": "You",
+        "start": 36.124,
+        "end": 36.224,
+        "score": 0.887
+      },
+      {
+        "word": "can",
+        "start": 36.264,
+        "end": 36.364,
+        "score": 0.977
+      },
+      {
+        "word": "see",
+        "start": 36.384,
+        "end": 36.504,
+        "score": 0.768
+      },
+      {
+        "word": "that",
+        "start": 36.524,
+        "end": 36.624,
+        "score": 0.934
+      },
+      {
+        "word": "there",
+        "start": 36.644,
+        "end": 36.784,
+        "score": 0.958
+      },
+      {
+        "word": "is",
+        "start": 36.824,
+        "end": 36.904,
+        "score": 0.666
+      },
+      {
+        "word": "an",
+        "start": 36.924,
+        "end": 36.964,
+        "score": 0.988
+      },
+      {
+        "word": "emphasis",
+        "start": 37.044,
+        "end": 37.465,
+        "score": 0.864
+      },
+      {
+        "word": "on",
+        "start": 37.545,
+        "end": 37.605,
+        "score": 0.95
+      },
+      {
+        "word": "this",
+        "start": 37.625,
+        "end": 37.825,
+        "score": 0.805
+      },
+      {
+        "word": "development",
+        "start": 37.925,
+        "end": 38.465,
+        "score": 0.878
+      },
+      {
+        "word": "in",
+        "start": 38.525,
+        "end": 38.585,
+        "score": 0.76
+      },
+      {
+        "word": "the",
+        "start": 38.605,
+        "end": 38.685,
+        "score": 0.831
+      },
+      {
+        "word": "markets,",
+        "start": 38.725,
+        "end": 39.226,
+        "score": 0.922
+      },
+      {
+        "word": "which",
+        "start": 39.486,
+        "end": 39.746,
+        "score": 0.881
+      },
+      {
+        "word": "is",
+        "start": 39.886,
+        "end": 40.046,
+        "score": 0.758
+      },
+      {
+        "word": "going",
+        "start": 40.106,
+        "end": 40.307,
+        "score": 0.978
+      },
+      {
+        "word": "very",
+        "start": 40.347,
+        "end": 40.527,
+        "score": 0.82
+      },
+      {
+        "word": "well.",
+        "start": 40.567,
+        "end": 40.747,
+        "score": 0.999
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_01",
+    "zh_final": "[SPEAKER_01] 能看出市场对这种发展的高度重视，目前进展非常顺利。",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v9_rebuild_wavs\\v9_rebuild_9.wav"
+  }
+]

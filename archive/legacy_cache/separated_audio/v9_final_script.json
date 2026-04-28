@@ -1,0 +1,1661 @@
+[
+  {
+    "start": 2.254,
+    "end": 11.234,
+    "text": " Navigate through this year's Expo, where dazzling technological products spanning manufacturing, retail, beauty, and agriculture are garnering attention.",
+    "words": [
+      {
+        "word": "Navigate",
+        "start": 2.254,
+        "end": 2.675,
+        "score": 0.851
+      },
+      {
+        "word": "through",
+        "start": 2.695,
+        "end": 2.896,
+        "score": 0.889
+      },
+      {
+        "word": "this",
+        "start": 2.936,
+        "end": 3.096,
+        "score": 0.88
+      },
+      {
+        "word": "year's",
+        "start": 3.136,
+        "end": 3.357,
+        "score": 0.773
+      },
+      {
+        "word": "Expo,",
+        "start": 3.477,
+        "end": 3.898,
+        "score": 0.921
+      },
+      {
+        "word": "where",
+        "start": 4.158,
+        "end": 4.359,
+        "score": 0.757
+      },
+      {
+        "word": "dazzling",
+        "start": 4.419,
+        "end": 4.84,
+        "score": 0.898
+      },
+      {
+        "word": "technological",
+        "start": 4.92,
+        "end": 5.602,
+        "score": 0.883
+      },
+      {
+        "word": "products",
+        "start": 5.642,
+        "end": 6.103,
+        "score": 0.868
+      },
+      {
+        "word": "spanning",
+        "start": 6.303,
+        "end": 6.704,
+        "score": 0.956
+      },
+      {
+        "word": "manufacturing,",
+        "start": 6.784,
+        "end": 7.586,
+        "score": 0.883
+      },
+      {
+        "word": "retail,",
+        "start": 7.887,
+        "end": 8.288,
+        "score": 0.872
+      },
+      {
+        "word": "beauty,",
+        "start": 8.528,
+        "end": 8.889,
+        "score": 0.913
+      },
+      {
+        "word": "and",
+        "start": 8.949,
+        "end": 9.049,
+        "score": 0.744
+      },
+      {
+        "word": "agriculture",
+        "start": 9.169,
+        "end": 9.791,
+        "score": 0.81
+      },
+      {
+        "word": "are",
+        "start": 9.811,
+        "end": 10.152,
+        "score": 0.395
+      },
+      {
+        "word": "garnering",
+        "start": 10.192,
+        "end": 10.673,
+        "score": 0.783
+      },
+      {
+        "word": "attention.",
+        "start": 10.733,
+        "end": 11.234,
+        "score": 0.936
+      }
+    ],
+    "avg_logprob": -0.2102864588300387,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 12.227,
+    "end": 13.108,
+    "text": " You won't believe it.",
+    "words": [
+      {
+        "word": "You",
+        "start": 12.227,
+        "end": 12.347,
+        "score": 0.901
+      },
+      {
+        "word": "won't",
+        "start": 12.387,
+        "end": 12.567,
+        "score": 0.758
+      },
+      {
+        "word": "believe",
+        "start": 12.607,
+        "end": 12.928,
+        "score": 0.838
+      },
+      {
+        "word": "it.",
+        "start": 13.008,
+        "end": 13.108,
+        "score": 0.879
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 13.388,
+    "end": 14.729,
+    "text": "This is a flying car.",
+    "words": [
+      {
+        "word": "This",
+        "start": 13.388,
+        "end": 13.548,
+        "score": 0.893
+      },
+      {
+        "word": "is",
+        "start": 13.628,
+        "end": 13.728,
+        "score": 0.582
+      },
+      {
+        "word": "a",
+        "start": 13.768,
+        "end": 13.808,
+        "score": 0.524
+      },
+      {
+        "word": "flying",
+        "start": 13.908,
+        "end": 14.329,
+        "score": 0.846
+      },
+      {
+        "word": "car.",
+        "start": 14.409,
+        "end": 14.729,
+        "score": 0.77
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 15.089,
+    "end": 18.231,
+    "text": "This intelligent car uses modern aviation technology.",
+    "words": [
+      {
+        "word": "This",
+        "start": 15.089,
+        "end": 15.289,
+        "score": 0.75
+      },
+      {
+        "word": "intelligent",
+        "start": 15.349,
+        "end": 15.91,
+        "score": 0.845
+      },
+      {
+        "word": "car",
+        "start": 15.95,
+        "end": 16.27,
+        "score": 0.757
+      },
+      {
+        "word": "uses",
+        "start": 16.33,
+        "end": 16.59,
+        "score": 0.504
+      },
+      {
+        "word": "modern",
+        "start": 16.65,
+        "end": 17.07,
+        "score": 0.71
+      },
+      {
+        "word": "aviation",
+        "start": 17.17,
+        "end": 17.571,
+        "score": 0.622
+      },
+      {
+        "word": "technology.",
+        "start": 17.591,
+        "end": 18.231,
+        "score": 0.898
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 18.611,
+    "end": 20.953,
+    "text": "It can travel both on land and in the air.",
+    "words": [
+      {
+        "word": "It",
+        "start": 18.611,
+        "end": 18.712,
+        "score": 0.316
+      },
+      {
+        "word": "can",
+        "start": 18.752,
+        "end": 18.892,
+        "score": 0.876
+      },
+      {
+        "word": "travel",
+        "start": 18.932,
+        "end": 19.272,
+        "score": 0.842
+      },
+      {
+        "word": "both",
+        "start": 19.332,
+        "end": 19.532,
+        "score": 0.546
+      },
+      {
+        "word": "on",
+        "start": 19.592,
+        "end": 19.712,
+        "score": 0.712
+      },
+      {
+        "word": "land",
+        "start": 19.732,
+        "end": 20.032,
+        "score": 0.93
+      },
+      {
+        "word": "and",
+        "start": 20.213,
+        "end": 20.313,
+        "score": 0.79
+      },
+      {
+        "word": "in",
+        "start": 20.413,
+        "end": 20.493,
+        "score": 0.883
+      },
+      {
+        "word": "the",
+        "start": 20.513,
+        "end": 20.613,
+        "score": 0.818
+      },
+      {
+        "word": "air.",
+        "start": 20.773,
+        "end": 20.953,
+        "score": 0.848
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 21.433,
+    "end": 24.355,
+    "text": "Wow, it feels like that I have stepped into the future.",
+    "words": [
+      {
+        "word": "Wow,",
+        "start": 21.433,
+        "end": 21.694,
+        "score": 0.72
+      },
+      {
+        "word": "it",
+        "start": 21.754,
+        "end": 21.954,
+        "score": 0.428
+      },
+      {
+        "word": "feels",
+        "start": 21.974,
+        "end": 22.254,
+        "score": 0.742
+      },
+      {
+        "word": "like",
+        "start": 22.294,
+        "end": 22.474,
+        "score": 0.904
+      },
+      {
+        "word": "that",
+        "start": 22.514,
+        "end": 22.714,
+        "score": 0.794
+      },
+      {
+        "word": "I",
+        "start": 22.834,
+        "end": 22.954,
+        "score": 0.596
+      },
+      {
+        "word": "have",
+        "start": 22.995,
+        "end": 23.195,
+        "score": 0.632
+      },
+      {
+        "word": "stepped",
+        "start": 23.215,
+        "end": 23.535,
+        "score": 0.393
+      },
+      {
+        "word": "into",
+        "start": 23.575,
+        "end": 23.775,
+        "score": 0.902
+      },
+      {
+        "word": "the",
+        "start": 23.795,
+        "end": 23.895,
+        "score": 0.718
+      },
+      {
+        "word": "future.",
+        "start": 23.935,
+        "end": 24.355,
+        "score": 0.737
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 24.996,
+    "end": 29.059,
+    "text": "I can see high quality development from walking around the expo.",
+    "words": [
+      {
+        "word": "I",
+        "start": 24.996,
+        "end": 25.056,
+        "score": 0.722
+      },
+      {
+        "word": "can",
+        "start": 25.096,
+        "end": 25.316,
+        "score": 0.813
+      },
+      {
+        "word": "see",
+        "start": 25.376,
+        "end": 25.536,
+        "score": 0.875
+      },
+      {
+        "word": "high",
+        "start": 25.576,
+        "end": 25.716,
+        "score": 0.802
+      },
+      {
+        "word": "quality",
+        "start": 25.756,
+        "end": 26.117,
+        "score": 0.858
+      },
+      {
+        "word": "development",
+        "start": 26.157,
+        "end": 26.577,
+        "score": 0.972
+      },
+      {
+        "word": "from",
+        "start": 26.637,
+        "end": 26.857,
+        "score": 0.767
+      },
+      {
+        "word": "walking",
+        "start": 27.798,
+        "end": 28.158,
+        "score": 0.9
+      },
+      {
+        "word": "around",
+        "start": 28.198,
+        "end": 28.378,
+        "score": 0.911
+      },
+      {
+        "word": "the",
+        "start": 28.418,
+        "end": 28.498,
+        "score": 0.883
+      },
+      {
+        "word": "expo.",
+        "start": 28.578,
+        "end": 29.059,
+        "score": 0.957
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 29.079,
+    "end": 34.703,
+    "text": "You can see there are many companies that have these high quality technology products.",
+    "words": [
+      {
+        "word": "You",
+        "start": 29.079,
+        "end": 29.199,
+        "score": 0.964
+      },
+      {
+        "word": "can",
+        "start": 29.239,
+        "end": 29.399,
+        "score": 0.919
+      },
+      {
+        "word": "see",
+        "start": 29.479,
+        "end": 29.679,
+        "score": 0.901
+      },
+      {
+        "word": "there",
+        "start": 29.719,
+        "end": 29.859,
+        "score": 0.964
+      },
+      {
+        "word": "are",
+        "start": 29.919,
+        "end": 29.999,
+        "score": 0.831
+      },
+      {
+        "word": "many",
+        "start": 30.019,
+        "end": 30.18,
+        "score": 0.901
+      },
+      {
+        "word": "companies",
+        "start": 30.26,
+        "end": 30.78,
+        "score": 0.916
+      },
+      {
+        "word": "that",
+        "start": 31.28,
+        "end": 31.46,
+        "score": 0.913
+      },
+      {
+        "word": "have",
+        "start": 31.641,
+        "end": 31.861,
+        "score": 0.924
+      },
+      {
+        "word": "these",
+        "start": 31.921,
+        "end": 32.101,
+        "score": 0.802
+      },
+      {
+        "word": "high",
+        "start": 32.141,
+        "end": 32.341,
+        "score": 0.766
+      },
+      {
+        "word": "quality",
+        "start": 32.461,
+        "end": 33.001,
+        "score": 0.896
+      },
+      {
+        "word": "technology",
+        "start": 33.362,
+        "end": 34.042,
+        "score": 0.931
+      },
+      {
+        "word": "products.",
+        "start": 34.222,
+        "end": 34.703,
+        "score": 0.871
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 35.083,
+    "end": 35.883,
+    "text": "It's very evident.",
+    "words": [
+      {
+        "word": "It's",
+        "start": 35.083,
+        "end": 35.183,
+        "score": 0.909
+      },
+      {
+        "word": "very",
+        "start": 35.223,
+        "end": 35.443,
+        "score": 0.815
+      },
+      {
+        "word": "evident.",
+        "start": 35.523,
+        "end": 35.883,
+        "score": 0.914
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 36.124,
+    "end": 40.747,
+    "text": "You can see that there is an emphasis on this development in the markets, which is going very well.",
+    "words": [
+      {
+        "word": "You",
+        "start": 36.124,
+        "end": 36.224,
+        "score": 0.887
+      },
+      {
+        "word": "can",
+        "start": 36.264,
+        "end": 36.364,
+        "score": 0.977
+      },
+      {
+        "word": "see",
+        "start": 36.384,
+        "end": 36.504,
+        "score": 0.768
+      },
+      {
+        "word": "that",
+        "start": 36.524,
+        "end": 36.624,
+        "score": 0.934
+      },
+      {
+        "word": "there",
+        "start": 36.644,
+        "end": 36.784,
+        "score": 0.958
+      },
+      {
+        "word": "is",
+        "start": 36.824,
+        "end": 36.904,
+        "score": 0.666
+      },
+      {
+        "word": "an",
+        "start": 36.924,
+        "end": 36.964,
+        "score": 0.988
+      },
+      {
+        "word": "emphasis",
+        "start": 37.044,
+        "end": 37.465,
+        "score": 0.864
+      },
+      {
+        "word": "on",
+        "start": 37.545,
+        "end": 37.605,
+        "score": 0.95
+      },
+      {
+        "word": "this",
+        "start": 37.625,
+        "end": 37.825,
+        "score": 0.805
+      },
+      {
+        "word": "development",
+        "start": 37.925,
+        "end": 38.465,
+        "score": 0.878
+      },
+      {
+        "word": "in",
+        "start": 38.525,
+        "end": 38.585,
+        "score": 0.76
+      },
+      {
+        "word": "the",
+        "start": 38.605,
+        "end": 38.685,
+        "score": 0.831
+      },
+      {
+        "word": "markets,",
+        "start": 38.725,
+        "end": 39.226,
+        "score": 0.922
+      },
+      {
+        "word": "which",
+        "start": 39.486,
+        "end": 39.746,
+        "score": 0.881
+      },
+      {
+        "word": "is",
+        "start": 39.886,
+        "end": 40.046,
+        "score": 0.758
+      },
+      {
+        "word": "going",
+        "start": 40.106,
+        "end": 40.307,
+        "score": 0.978
+      },
+      {
+        "word": "very",
+        "start": 40.347,
+        "end": 40.527,
+        "score": 0.82
+      },
+      {
+        "word": "well.",
+        "start": 40.567,
+        "end": 40.747,
+        "score": 0.999
+      }
+    ],
+    "avg_logprob": -0.08743687124565394,
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": 45.248,
+    "end": 50.531,
+    "text": " This product is lying to easily transform your regular sofa chair into a massage chair.",
+    "words": [
+      {
+        "word": "This",
+        "start": 45.248,
+        "end": 45.448,
+        "score": 0.832
+      },
+      {
+        "word": "product",
+        "start": 45.488,
+        "end": 45.988,
+        "score": 0.523
+      },
+      {
+        "word": "is",
+        "start": 46.048,
+        "end": 46.128,
+        "score": 0.629
+      },
+      {
+        "word": "lying",
+        "start": 46.289,
+        "end": 46.629,
+        "score": 0.86
+      },
+      {
+        "word": "to",
+        "start": 46.669,
+        "end": 46.809,
+        "score": 0.917
+      },
+      {
+        "word": "easily",
+        "start": 46.829,
+        "end": 47.469,
+        "score": 0.457
+      },
+      {
+        "word": "transform",
+        "start": 47.509,
+        "end": 47.909,
+        "score": 0.838
+      },
+      {
+        "word": "your",
+        "start": 47.929,
+        "end": 48.089,
+        "score": 0.378
+      },
+      {
+        "word": "regular",
+        "start": 48.129,
+        "end": 48.49,
+        "score": 0.761
+      },
+      {
+        "word": "sofa",
+        "start": 48.51,
+        "end": 48.97,
+        "score": 0.794
+      },
+      {
+        "word": "chair",
+        "start": 49.01,
+        "end": 49.27,
+        "score": 0.903
+      },
+      {
+        "word": "into",
+        "start": 49.57,
+        "end": 49.77,
+        "score": 0.921
+      },
+      {
+        "word": "a",
+        "start": 49.79,
+        "end": 49.83,
+        "score": 0.603
+      },
+      {
+        "word": "massage",
+        "start": 49.87,
+        "end": 50.19,
+        "score": 0.692
+      },
+      {
+        "word": "chair.",
+        "start": 50.21,
+        "end": 50.531,
+        "score": 0.791
+      }
+    ],
+    "avg_logprob": -0.2852822599872466,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 50.851,
+    "end": 51.471,
+    "text": "Just sit down.",
+    "words": [
+      {
+        "word": "Just",
+        "start": 50.851,
+        "end": 51.031,
+        "score": 0.863
+      },
+      {
+        "word": "sit",
+        "start": 51.071,
+        "end": 51.191,
+        "score": 0.358
+      },
+      {
+        "word": "down.",
+        "start": 51.231,
+        "end": 51.471,
+        "score": 0.689
+      }
+    ],
+    "avg_logprob": -0.2852822599872466,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 56.954,
+    "end": 59.515,
+    "text": "And connect to an app to multiple stress levels.",
+    "words": [
+      {
+        "word": "And",
+        "start": 56.954,
+        "end": 57.054,
+        "score": 0.848
+      },
+      {
+        "word": "connect",
+        "start": 57.134,
+        "end": 57.494,
+        "score": 0.714
+      },
+      {
+        "word": "to",
+        "start": 57.514,
+        "end": 57.654,
+        "score": 0.875
+      },
+      {
+        "word": "an",
+        "start": 57.694,
+        "end": 57.734,
+        "score": 0.641
+      },
+      {
+        "word": "app",
+        "start": 57.894,
+        "end": 58.014,
+        "score": 0.538
+      },
+      {
+        "word": "to",
+        "start": 58.074,
+        "end": 58.234,
+        "score": 0.823
+      },
+      {
+        "word": "multiple",
+        "start": 58.294,
+        "end": 58.834,
+        "score": 0.55
+      },
+      {
+        "word": "stress",
+        "start": 58.854,
+        "end": 59.115,
+        "score": 0.675
+      },
+      {
+        "word": "levels.",
+        "start": 59.155,
+        "end": 59.515,
+        "score": 0.798
+      }
+    ],
+    "avg_logprob": -0.2852822599872466,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 74.685,
+    "end": 78.406,
+    "text": " Wow, they enjoy a full-go, they synchronize and massage.",
+    "words": [
+      {
+        "word": "Wow,",
+        "start": 74.685,
+        "end": 74.965,
+        "score": 0.714
+      },
+      {
+        "word": "they",
+        "start": 75.505,
+        "end": 75.765,
+        "score": 0.791
+      },
+      {
+        "word": "enjoy",
+        "start": 75.885,
+        "end": 76.265,
+        "score": 0.611
+      },
+      {
+        "word": "a",
+        "start": 76.305,
+        "end": 76.445,
+        "score": 0.583
+      },
+      {
+        "word": "full-go,",
+        "start": 76.465,
+        "end": 76.826,
+        "score": 0.483
+      },
+      {
+        "word": "they",
+        "start": 76.846,
+        "end": 77.026,
+        "score": 0.925
+      },
+      {
+        "word": "synchronize",
+        "start": 77.286,
+        "end": 77.866,
+        "score": 0.514
+      },
+      {
+        "word": "and",
+        "start": 77.946,
+        "end": 78.006,
+        "score": 0.144
+      },
+      {
+        "word": "massage.",
+        "start": 78.026,
+        "end": 78.406,
+        "score": 0.501
+      }
+    ],
+    "avg_logprob": -0.5903320200741291,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 94.39,
+    "end": 105.772,
+    "text": " In recent years, China has vigorously pursued technological innovation, which is injecting great momentum into its efforts to develop new quality productive forces and promote high-quality development.",
+    "words": [
+      {
+        "word": "In",
+        "start": 94.39,
+        "end": 94.47,
+        "score": 0.834
+      },
+      {
+        "word": "recent",
+        "start": 94.53,
+        "end": 94.85,
+        "score": 0.968
+      },
+      {
+        "word": "years,",
+        "start": 94.89,
+        "end": 95.17,
+        "score": 0.87
+      },
+      {
+        "word": "China",
+        "start": 95.23,
+        "end": 95.53,
+        "score": 0.899
+      },
+      {
+        "word": "has",
+        "start": 95.57,
+        "end": 95.71,
+        "score": 0.885
+      },
+      {
+        "word": "vigorously",
+        "start": 95.79,
+        "end": 96.33,
+        "score": 0.795
+      },
+      {
+        "word": "pursued",
+        "start": 96.37,
+        "end": 96.77,
+        "score": 0.884
+      },
+      {
+        "word": "technological",
+        "start": 96.85,
+        "end": 97.531,
+        "score": 0.819
+      },
+      {
+        "word": "innovation,",
+        "start": 97.551,
+        "end": 98.111,
+        "score": 0.949
+      },
+      {
+        "word": "which",
+        "start": 98.511,
+        "end": 98.671,
+        "score": 0.897
+      },
+      {
+        "word": "is",
+        "start": 98.731,
+        "end": 98.811,
+        "score": 0.573
+      },
+      {
+        "word": "injecting",
+        "start": 98.891,
+        "end": 99.371,
+        "score": 0.932
+      },
+      {
+        "word": "great",
+        "start": 99.451,
+        "end": 99.691,
+        "score": 0.835
+      },
+      {
+        "word": "momentum",
+        "start": 99.731,
+        "end": 100.211,
+        "score": 0.934
+      },
+      {
+        "word": "into",
+        "start": 100.251,
+        "end": 100.431,
+        "score": 0.917
+      },
+      {
+        "word": "its",
+        "start": 100.491,
+        "end": 100.571,
+        "score": 0.556
+      },
+      {
+        "word": "efforts",
+        "start": 100.711,
+        "end": 101.031,
+        "score": 0.542
+      },
+      {
+        "word": "to",
+        "start": 101.471,
+        "end": 101.631,
+        "score": 0.982
+      },
+      {
+        "word": "develop",
+        "start": 101.671,
+        "end": 102.071,
+        "score": 0.48
+      },
+      {
+        "word": "new",
+        "start": 102.111,
+        "end": 102.251,
+        "score": 0.882
+      },
+      {
+        "word": "quality",
+        "start": 102.291,
+        "end": 102.732,
+        "score": 0.633
+      },
+      {
+        "word": "productive",
+        "start": 102.792,
+        "end": 103.312,
+        "score": 0.946
+      },
+      {
+        "word": "forces",
+        "start": 103.352,
+        "end": 103.732,
+        "score": 0.912
+      },
+      {
+        "word": "and",
+        "start": 104.072,
+        "end": 104.152,
+        "score": 0.834
+      },
+      {
+        "word": "promote",
+        "start": 104.232,
+        "end": 104.612,
+        "score": 0.938
+      },
+      {
+        "word": "high-quality",
+        "start": 104.652,
+        "end": 105.212,
+        "score": 0.597
+      },
+      {
+        "word": "development.",
+        "start": 105.232,
+        "end": 105.772,
+        "score": 0.738
+      }
+    ],
+    "avg_logprob": -0.10348958114782969,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 106.492,
+    "end": 120.975,
+    "text": "Insiders point out that China's transition towards intelligent, high-end and green directions will further expand China's market space, stimulate new economic growth areas, and provide new market opportunities for foreign enterprises.",
+    "words": [
+      {
+        "word": "Insiders",
+        "start": 106.492,
+        "end": 107.052,
+        "score": 0.886
+      },
+      {
+        "word": "point",
+        "start": 107.132,
+        "end": 107.392,
+        "score": 0.848
+      },
+      {
+        "word": "out",
+        "start": 107.472,
+        "end": 107.572,
+        "score": 0.997
+      },
+      {
+        "word": "that",
+        "start": 107.612,
+        "end": 107.792,
+        "score": 0.869
+      },
+      {
+        "word": "China's",
+        "start": 107.912,
+        "end": 108.313,
+        "score": 0.894
+      },
+      {
+        "word": "transition",
+        "start": 108.393,
+        "end": 108.933,
+        "score": 0.913
+      },
+      {
+        "word": "towards",
+        "start": 108.993,
+        "end": 109.313,
+        "score": 0.928
+      },
+      {
+        "word": "intelligent,",
+        "start": 109.393,
+        "end": 109.973,
+        "score": 0.942
+      },
+      {
+        "word": "high-end",
+        "start": 110.373,
+        "end": 110.853,
+        "score": 0.744
+      },
+      {
+        "word": "and",
+        "start": 110.973,
+        "end": 111.073,
+        "score": 0.891
+      },
+      {
+        "word": "green",
+        "start": 111.133,
+        "end": 111.393,
+        "score": 0.7
+      },
+      {
+        "word": "directions",
+        "start": 111.413,
+        "end": 111.933,
+        "score": 0.867
+      },
+      {
+        "word": "will",
+        "start": 112.293,
+        "end": 112.473,
+        "score": 0.736
+      },
+      {
+        "word": "further",
+        "start": 112.513,
+        "end": 112.833,
+        "score": 0.887
+      },
+      {
+        "word": "expand",
+        "start": 112.913,
+        "end": 113.273,
+        "score": 0.832
+      },
+      {
+        "word": "China's",
+        "start": 113.313,
+        "end": 113.754,
+        "score": 0.814
+      },
+      {
+        "word": "market",
+        "start": 113.874,
+        "end": 114.234,
+        "score": 0.942
+      },
+      {
+        "word": "space,",
+        "start": 114.254,
+        "end": 114.614,
+        "score": 0.663
+      },
+      {
+        "word": "stimulate",
+        "start": 114.994,
+        "end": 115.574,
+        "score": 0.879
+      },
+      {
+        "word": "new",
+        "start": 115.654,
+        "end": 115.814,
+        "score": 0.891
+      },
+      {
+        "word": "economic",
+        "start": 115.914,
+        "end": 116.354,
+        "score": 0.857
+      },
+      {
+        "word": "growth",
+        "start": 116.394,
+        "end": 116.634,
+        "score": 0.431
+      },
+      {
+        "word": "areas,",
+        "start": 116.814,
+        "end": 117.214,
+        "score": 0.74
+      },
+      {
+        "word": "and",
+        "start": 117.594,
+        "end": 117.694,
+        "score": 0.677
+      },
+      {
+        "word": "provide",
+        "start": 117.774,
+        "end": 118.194,
+        "score": 0.898
+      },
+      {
+        "word": "new",
+        "start": 118.254,
+        "end": 118.414,
+        "score": 0.934
+      },
+      {
+        "word": "market",
+        "start": 118.474,
+        "end": 118.874,
+        "score": 0.909
+      },
+      {
+        "word": "opportunities",
+        "start": 118.974,
+        "end": 119.595,
+        "score": 0.879
+      },
+      {
+        "word": "for",
+        "start": 119.635,
+        "end": 119.775,
+        "score": 0.918
+      },
+      {
+        "word": "foreign",
+        "start": 119.855,
+        "end": 120.215,
+        "score": 0.781
+      },
+      {
+        "word": "enterprises.",
+        "start": 120.295,
+        "end": 120.975,
+        "score": 0.934
+      }
+    ],
+    "avg_logprob": -0.10348958114782969,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 122.095,
+    "end": 132.743,
+    "text": " After spending several days at Expo, I have seen firsthand how tech improved slabs, fell the third in green consumption, and witnessed foreign companies growing confidence in the Chinese market.",
+    "words": [
+      {
+        "word": "After",
+        "start": 122.095,
+        "end": 122.335,
+        "score": 0.92
+      },
+      {
+        "word": "spending",
+        "start": 122.395,
+        "end": 122.736,
+        "score": 0.834
+      },
+      {
+        "word": "several",
+        "start": 122.776,
+        "end": 123.096,
+        "score": 0.939
+      },
+      {
+        "word": "days",
+        "start": 123.136,
+        "end": 123.336,
+        "score": 0.782
+      },
+      {
+        "word": "at",
+        "start": 123.476,
+        "end": 123.556,
+        "score": 0.629
+      },
+      {
+        "word": "Expo,",
+        "start": 123.576,
+        "end": 124.177,
+        "score": 0.835
+      },
+      {
+        "word": "I",
+        "start": 124.497,
+        "end": 124.557,
+        "score": 0.989
+      },
+      {
+        "word": "have",
+        "start": 124.597,
+        "end": 124.737,
+        "score": 0.878
+      },
+      {
+        "word": "seen",
+        "start": 124.777,
+        "end": 124.957,
+        "score": 0.807
+      },
+      {
+        "word": "firsthand",
+        "start": 125.017,
+        "end": 125.518,
+        "score": 0.838
+      },
+      {
+        "word": "how",
+        "start": 125.578,
+        "end": 125.738,
+        "score": 0.464
+      },
+      {
+        "word": "tech",
+        "start": 125.758,
+        "end": 126.018,
+        "score": 0.407
+      },
+      {
+        "word": "improved",
+        "start": 126.118,
+        "end": 126.519,
+        "score": 0.668
+      },
+      {
+        "word": "slabs,",
+        "start": 126.539,
+        "end": 126.879,
+        "score": 0.724
+      },
+      {
+        "word": "fell",
+        "start": 127.239,
+        "end": 127.459,
+        "score": 0.492
+      },
+      {
+        "word": "the",
+        "start": 127.479,
+        "end": 127.559,
+        "score": 0.987
+      },
+      {
+        "word": "third",
+        "start": 127.619,
+        "end": 127.9,
+        "score": 0.692
+      },
+      {
+        "word": "in",
+        "start": 127.98,
+        "end": 128.06,
+        "score": 0.922
+      },
+      {
+        "word": "green",
+        "start": 128.08,
+        "end": 128.32,
+        "score": 0.727
+      },
+      {
+        "word": "consumption,",
+        "start": 128.34,
+        "end": 128.86,
+        "score": 0.944
+      },
+      {
+        "word": "and",
+        "start": 129.221,
+        "end": 129.321,
+        "score": 0.766
+      },
+      {
+        "word": "witnessed",
+        "start": 129.401,
+        "end": 129.781,
+        "score": 0.472
+      },
+      {
+        "word": "foreign",
+        "start": 129.861,
+        "end": 130.201,
+        "score": 0.745
+      },
+      {
+        "word": "companies",
+        "start": 130.241,
+        "end": 130.702,
+        "score": 0.622
+      },
+      {
+        "word": "growing",
+        "start": 130.742,
+        "end": 131.102,
+        "score": 0.609
+      },
+      {
+        "word": "confidence",
+        "start": 131.142,
+        "end": 131.602,
+        "score": 0.863
+      },
+      {
+        "word": "in",
+        "start": 131.742,
+        "end": 131.802,
+        "score": 0.988
+      },
+      {
+        "word": "the",
+        "start": 131.823,
+        "end": 131.923,
+        "score": 0.724
+      },
+      {
+        "word": "Chinese",
+        "start": 131.943,
+        "end": 132.323,
+        "score": 0.866
+      },
+      {
+        "word": "market.",
+        "start": 132.363,
+        "end": 132.743,
+        "score": 0.956
+      }
+    ],
+    "avg_logprob": -0.17236328381113708,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 133.264,
+    "end": 141.21,
+    "text": "The Expo shows that China is creating new opportunities for business worldwide in its pursuit of high-quality development.",
+    "words": [
+      {
+        "word": "The",
+        "start": 133.264,
+        "end": 133.364,
+        "score": 0.838
+      },
+      {
+        "word": "Expo",
+        "start": 133.464,
+        "end": 133.884,
+        "score": 0.797
+      },
+      {
+        "word": "shows",
+        "start": 133.944,
+        "end": 134.384,
+        "score": 0.847
+      },
+      {
+        "word": "that",
+        "start": 134.424,
+        "end": 134.645,
+        "score": 0.597
+      },
+      {
+        "word": "China",
+        "start": 134.925,
+        "end": 135.285,
+        "score": 0.946
+      },
+      {
+        "word": "is",
+        "start": 135.305,
+        "end": 135.385,
+        "score": 0.48
+      },
+      {
+        "word": "creating",
+        "start": 135.465,
+        "end": 135.866,
+        "score": 0.898
+      },
+      {
+        "word": "new",
+        "start": 135.946,
+        "end": 136.146,
+        "score": 0.909
+      },
+      {
+        "word": "opportunities",
+        "start": 136.266,
+        "end": 136.946,
+        "score": 0.909
+      },
+      {
+        "word": "for",
+        "start": 137.207,
+        "end": 137.427,
+        "score": 0.776
+      },
+      {
+        "word": "business",
+        "start": 137.467,
+        "end": 137.887,
+        "score": 0.86
+      },
+      {
+        "word": "worldwide",
+        "start": 137.987,
+        "end": 138.528,
+        "score": 0.743
+      },
+      {
+        "word": "in",
+        "start": 138.828,
+        "end": 138.928,
+        "score": 0.491
+      },
+      {
+        "word": "its",
+        "start": 139.008,
+        "end": 139.128,
+        "score": 0.494
+      },
+      {
+        "word": "pursuit",
+        "start": 139.208,
+        "end": 139.748,
+        "score": 0.895
+      },
+      {
+        "word": "of",
+        "start": 139.768,
+        "end": 139.809,
+        "score": 0.0
+      },
+      {
+        "word": "high-quality",
+        "start": 139.869,
+        "end": 140.629,
+        "score": 0.854
+      },
+      {
+        "word": "development.",
+        "start": 140.649,
+        "end": 141.21,
+        "score": 0.689
+      }
+    ],
+    "avg_logprob": -0.17236328381113708,
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": 141.85,
+    "end": 142.591,
+    "text": "See you next year.",
+    "words": [
+      {
+        "word": "See",
+        "start": 141.85,
+        "end": 142.03,
+        "score": 0.884
+      },
+      {
+        "word": "you",
+        "start": 142.05,
+        "end": 142.19,
+        "score": 0.746
+      },
+      {
+        "word": "next",
+        "start": 142.25,
+        "end": 142.471,
+        "score": 0.91
+      },
+      {
+        "word": "year.",
+        "start": 142.491,
+        "end": 142.591,
+        "score": 0.222
+      }
+    ],
+    "avg_logprob": -0.17236328381113708,
+    "speaker": "SPEAKER_00"
+  }
+]

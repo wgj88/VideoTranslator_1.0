@@ -1,0 +1,156 @@
+[
+  {
+    "start": 2.254,
+    "end": 4.438,
+    "speaker": "SPEAKER_00",
+    "zh": "带你逛今年博览会！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_0.wav"
+  },
+  {
+    "start": 4.438,
+    "end": 11.234,
+    "speaker": "SPEAKER_00",
+    "zh": "横跨制造、零售、美妆和农业的炫酷科技产品正成为全场焦点！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_1.wav"
+  },
+  {
+    "start": 12.227,
+    "end": 13.108,
+    "speaker": "SPEAKER_00",
+    "zh": "你绝对想不到！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_2.wav"
+  },
+  {
+    "start": 13.388,
+    "end": 14.729,
+    "speaker": "SPEAKER_00",
+    "zh": "这竟然是辆会飞的汽车！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_3.wav"
+  },
+  {
+    "start": 15.089,
+    "end": 18.231,
+    "speaker": "SPEAKER_00",
+    "zh": "这款智能汽车运用了现代航空技术！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_4.wav"
+  },
+  {
+    "start": 18.611,
+    "end": 20.953,
+    "speaker": "SPEAKER_00",
+    "zh": "它既能陆地行驶又能空中翱翔！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_5.wav"
+  },
+  {
+    "start": 21.433,
+    "end": 21.85,
+    "speaker": "SPEAKER_00",
+    "zh": "哇！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_6.wav"
+  },
+  {
+    "start": 21.85,
+    "end": 24.355,
+    "speaker": "SPEAKER_00",
+    "zh": "简直像穿越到了未来世界！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_7.wav"
+  },
+  {
+    "start": 24.996,
+    "end": 29.059,
+    "speaker": "SPEAKER_01",
+    "zh": "逛展就能感受到高质量发展的蓬勃生机！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_8.wav"
+  },
+  {
+    "start": 29.079,
+    "end": 34.703,
+    "speaker": "SPEAKER_01",
+    "zh": "随处可见企业带来的高科技精品！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_9.wav"
+  },
+  {
+    "start": 35.083,
+    "end": 35.883,
+    "speaker": "SPEAKER_01",
+    "zh": "这趋势太明显了！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_10.wav"
+  },
+  {
+    "start": 36.124,
+    "end": 40.747,
+    "speaker": "SPEAKER_01",
+    "zh": "能看出市场对这类发展的高度重视，目前进展非常顺利！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_11.wav"
+  },
+  {
+    "start": 45.248,
+    "end": 50.531,
+    "speaker": "SPEAKER_00",
+    "zh": "这款产品谎称能轻松将普通沙发椅变成按摩椅！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_12.wav"
+  },
+  {
+    "start": 50.851,
+    "end": 51.471,
+    "speaker": "SPEAKER_00",
+    "zh": "只需坐下！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_13.wav"
+  },
+  {
+    "start": 56.954,
+    "end": 59.515,
+    "speaker": "SPEAKER_00",
+    "zh": "然后连接APP就能调节多种压力等级！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_14.wav"
+  },
+  {
+    "start": 74.685,
+    "end": 75.257,
+    "speaker": "SPEAKER_00",
+    "zh": "哇！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_15.wav"
+  },
+  {
+    "start": 75.257,
+    "end": 78.406,
+    "speaker": "SPEAKER_00",
+    "zh": "他们享受全身同步按摩！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_16.wav"
+  },
+  {
+    "start": 94.39,
+    "end": 105.772,
+    "speaker": "SPEAKER_00",
+    "zh": "近年来中国大力推进科技创新，为发展新质生产力和推动高质量发展注入强大动能！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_17.wav"
+  },
+  {
+    "start": 106.492,
+    "end": 120.975,
+    "speaker": "SPEAKER_00",
+    "zh": "业内人士指出，中国向智能化、高端化和绿色化方向的转型将进一步拓展中国市场空间，激发新的经济增长点，为外资企业提供新的市场机遇！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_18.wav"
+  },
+  {
+    "start": 122.095,
+    "end": 132.743,
+    "speaker": "SPEAKER_00",
+    "zh": "在进博会待了几天后，我亲眼见证了科技如何改善生活，感受到绿色消费热潮，也目睹了外资企业对中国市场日益增长的信心！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_19.wav"
+  },
+  {
+    "start": 133.264,
+    "end": 141.21,
+    "speaker": "SPEAKER_00",
+    "zh": "进博会证明中国正在通过高质量发展为全球企业创造新机遇！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_20.wav"
+  },
+  {
+    "start": 141.85,
+    "end": 142.591,
+    "speaker": "SPEAKER_00",
+    "zh": "明年见！",
+    "dub_path": "E:\\VideoTranslator_Project\\temp_factory\\v12_final_wavs\\v12_seg_21.wav"
+  }
+]
