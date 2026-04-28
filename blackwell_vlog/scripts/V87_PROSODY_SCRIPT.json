@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "start": 0.0,
+    "end": 4.5,
+    "text": "The wait is finally over. Blackwell is here and it's absolute monster.",
+    "zh": "久候终至。布莱克威尔，怪兽级登场！"
+  },
+  {
+    "id": 2,
+    "start": 4.5,
+    "end": 8.2,
+    "text": "We are talking about 200 teraflops of pure computing power in your palm.",
+    "zh": "掌中握，二百兆亿次！"
+  },
+  {
+    "id": 3,
+    "start": 8.2,
+    "end": 12.5,
+    "text": "But at what cost? $4,000 for a GPU? Nvidia has officially lost its mind.",
+    "zh": "代价几何？显卡四千美元？英伟达疯了！"
+  },
+  {
+    "id": 4,
+    "start": 12.5,
+    "end": 15.8,
+    "text": "Yet, every single AI lab on the planet is lining up to buy them.",
+    "zh": "全球AI实验室，抢购！"
+  },
+  {
+    "id": 5,
+    "start": 15.8,
+    "end": 19.5,
+    "text": "Is it the future of AI or just the biggest wealth transfer in history?",
+    "zh": "AI未来，还是史上最大财富转移？"
+  }
+]
