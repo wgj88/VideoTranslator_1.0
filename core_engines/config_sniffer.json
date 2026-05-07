@@ -1,0 +1,25 @@
+﻿{
+    "sniffer_settings":  {
+                             "seeds":  [
+                                           "Bizarre African street food",
+                                           "Extreme survival food",
+                                           "Weirdest seafood preparation",
+                                           "Village feast ritual",
+                                           "Tribal cooking secrets",
+                                           "Disgusting delicacies tour",
+                                           "Wild animal cooking bushmeat",
+                                           "Rare ancient recipes"
+                                       ],
+                             "modifiers":  [
+                                               "insane",
+                                               "deep dive",
+                                               "untold",
+                                               "hidden",
+                                               "2026",
+                                               "documentary",
+                                               "explained"
+                                           ],
+                             "max_probes":  6,
+                             "results_per_probe":  10
+                         }
+}

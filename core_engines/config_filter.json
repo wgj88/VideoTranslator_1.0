@@ -1,0 +1,15 @@
+﻿{
+  "filters": {
+    "duration": { "min_seconds": 60, "max_seconds": 900 },
+    "metrics": { "min_view_count": 1000 },
+    "content": {
+      "include_keywords": [],
+      "exclude_keywords": ["asmr", "live", "compilation", "still image", "audio only"]
+    },
+    "min_vbitrate_kbps": 200
+  },
+  "editor_settings": {
+    "min_viral_score": 75,
+    "focus_areas": ["gaming", "mystery", "africa", "humanities", "food adventure", "minimalist", "story"]
+  }
+}
